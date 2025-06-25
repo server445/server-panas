@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-25 02:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-23 23:30:10 +0000"
@@ -1148,6 +1154,7 @@
       "minecraft:grove": "2025-06-24 00:15:42 +0000",
       "minecraft:jagged_peaks": "2025-06-24 00:38:24 +0000",
       "minecraft:forest": "2025-06-23 23:26:26 +0000",
+      "minecraft:lush_caves": "2025-06-25 02:38:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-24 00:15:23 +0000",
       "minecraft:deep_dark": "2025-06-24 00:12:05 +0000",
       "minecraft:meadow": "2025-06-23 23:39:38 +0000"
