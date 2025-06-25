@@ -57,3 +57,5 @@
 [20:24:29] [Server thread/INFO]: AbelCS left the game
 [20:24:44] [Server thread/INFO]: AbelCS[/127.102.211.230:41579] logged in with entity id 2795 at (400.2907762153803, 118.0, 36.439100338995864)
 [20:24:44] [Server thread/INFO]: AbelCS joined the game
+[20:33:01] [Server thread/INFO]: MARK1 has completed the challenge [It Spreads]
+[20:39:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=-34, z=-31} gt{x=359, y=-34, z=-30}
