@@ -114,3 +114,16 @@
 [22:57:36] [Server thread/INFO]: MARK1 has made the advancement [Fishy Business]
 [23:01:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=120, z=-70} gt{x=372, y=118, z=-68}
 [23:01:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=120, z=-70} gt{x=372, y=118, z=-68}
+[23:07:16] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[23:07:16] [Server thread/INFO]: Edy_445 left the game
+[23:07:30] [Server thread/INFO]: Edy_445[/127.181.157.249:54063] logged in with entity id 36817 at (372.6310216039623, 120.0, -15.01239549087398)
+[23:07:30] [Server thread/INFO]: Edy_445 joined the game
+[23:08:18] [Server thread/INFO]: [Not Secure] <Edy_445> s
+[23:10:06] [Server thread/WARN]: Edy_445 moved too quickly! -0.028030438686357684,0.20000004768371582,10.363856266660889
+[23:10:12] [Server thread/WARN]: Edy_445 moved too quickly! 0.15910545925117958,-0.7967356006687112,10.376718688466894
+[23:10:31] [Server thread/INFO]: Edy_445 lost connection: Timed out
+[23:10:31] [Server thread/INFO]: Edy_445 left the game
+[23:10:32] [Server thread/INFO]: Edy_445[/127.181.157.249:34647] logged in with entity id 37683 at (372.5080963528696, 112.12160004615784, -135.17983822439237)
+[23:10:32] [Server thread/INFO]: Edy_445 joined the game
+[23:11:42] [Server thread/INFO]: MARK1 was slain by Enderman
+[23:11:52] [Server thread/INFO]: [Not Secure] <Edy_445> GG XD
