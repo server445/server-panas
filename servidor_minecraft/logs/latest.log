@@ -59,3 +59,17 @@
 [20:24:44] [Server thread/INFO]: AbelCS joined the game
 [20:33:01] [Server thread/INFO]: MARK1 has completed the challenge [It Spreads]
 [20:39:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=-34, z=-31} gt{x=359, y=-34, z=-30}
+[20:44:52] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[20:44:52] [Server thread/INFO]: AbelCS left the game
+[20:45:37] [Server thread/INFO]: AbelCS[/127.102.211.230:35481] logged in with entity id 6171 at (422.8199870016405, 96.0, 24.30000001192093)
+[20:45:37] [Server thread/INFO]: AbelCS joined the game
+[20:46:07] [Server thread/INFO]: AbelCS lost connection: Timed out
+[20:46:07] [Server thread/INFO]: AbelCS left the game
+[20:46:26] [Server thread/INFO]: AbelCS[/127.102.211.230:37901] logged in with entity id 6271 at (422.8199870016405, 96.0, 24.30000001192093)
+[20:46:26] [Server thread/INFO]: AbelCS joined the game
+[20:48:55] [Server thread/INFO]: Edy_445[/127.181.157.249:39275] logged in with entity id 6745 at (370.50001160951126, 116.0, 212.70072607158875)
+[20:48:55] [Server thread/INFO]: Edy_445 joined the game
+[20:48:56] [Server thread/INFO]: AbelCS lost connection: Timed out
+[20:48:56] [Server thread/INFO]: AbelCS left the game
+[20:49:29] [Server thread/INFO]: AbelCS[/127.102.211.230:34499] logged in with entity id 6938 at (382.69999998807907, 110.0, 24.588041189220736)
+[20:49:29] [Server thread/INFO]: AbelCS joined the game
