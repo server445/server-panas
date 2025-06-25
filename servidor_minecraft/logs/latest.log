@@ -103,3 +103,14 @@
 [22:53:16] [Server thread/INFO]: MARK1 left the game
 [22:53:17] [Server thread/INFO]: Edy_445 lost connection: Disconnected
 [22:53:17] [Server thread/INFO]: Edy_445 left the game
+[22:53:43] [Server thread/INFO]: Edy_445[/127.181.157.249:34579] logged in with entity id 32059 at (372.49846208935975, 75.0, -613.1144327270504)
+[22:53:43] [Server thread/INFO]: Edy_445 joined the game
+[22:53:50] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[22:53:50] [Server thread/INFO]: Edy_445 left the game
+[22:53:53] [Server thread/INFO]: MARK1[/127.42.16.212:36577] logged in with entity id 32354 at (460.67723469127145, -30.0, 24.624434466804903)
+[22:53:53] [Server thread/INFO]: MARK1 joined the game
+[22:53:56] [Server thread/INFO]: Edy_445[/127.181.157.249:35093] logged in with entity id 32405 at (372.49846208935975, 75.0, -613.1144327270504)
+[22:53:56] [Server thread/INFO]: Edy_445 joined the game
+[22:57:36] [Server thread/INFO]: MARK1 has made the advancement [Fishy Business]
+[23:01:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=120, z=-70} gt{x=372, y=118, z=-68}
+[23:01:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=372, y=120, z=-70} gt{x=372, y=118, z=-68}

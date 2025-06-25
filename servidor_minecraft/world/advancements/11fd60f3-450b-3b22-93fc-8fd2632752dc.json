@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-23 23:58:14 +0000"
@@ -370,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-24 00:30:32 +0000"
@@ -412,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-23 23:58:20 +0000"
@@ -439,6 +457,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-25 21:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
     },
     "done": true
   },
@@ -760,7 +784,8 @@
       "minecraft:spider": "2025-06-25 02:25:51 +0000",
       "minecraft:phantom": "2025-06-23 23:43:40 +0000",
       "minecraft:enderman": "2025-06-24 00:10:54 +0000",
-      "minecraft:zombie": "2025-06-23 23:40:18 +0000"
+      "minecraft:zombie": "2025-06-23 23:40:18 +0000",
+      "minecraft:drowned": "2025-06-25 22:55:05 +0000"
     },
     "done": false
   },
@@ -1115,6 +1140,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-23 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
     },
     "done": true
   },
@@ -1679,6 +1710,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-23 23:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:00:42 +0000"
     },
     "done": true
   },
