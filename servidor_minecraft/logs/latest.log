@@ -86,3 +86,6 @@
 [20:56:50] [Server thread/INFO]: MARK1 left the game
 [20:57:02] [Server thread/INFO]: MARK1[/127.42.16.212:43451] logged in with entity id 8662 at (384.6856404367542, 118.0, 58.28456002770858)
 [20:57:02] [Server thread/INFO]: MARK1 joined the game
+[21:03:00] [Server thread/INFO]: AbelCS lost connection: Timed out
+[21:03:00] [Server thread/INFO]: AbelCS left the game
+[21:07:25] [Server thread/WARN]: MARK1 moved too quickly! 10.088960969534696,0.0,0.3854769183342839
