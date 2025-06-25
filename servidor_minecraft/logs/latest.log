@@ -95,3 +95,11 @@
 [22:41:05] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
 [22:41:48] [Server thread/INFO]: Edy_445[/127.181.157.249:40257] logged in with entity id 26187 at (678.6247587451904, 103.0, -1100.6818751390201)
 [22:41:48] [Server thread/INFO]: Edy_445 joined the game
+[22:44:47] [Server thread/INFO]: [Not Secure] <AbelCS> 372.300 111.00000 15.884
+[22:45:17] [Server thread/INFO]: [Not Secure] <Edy_445> 693 91 -1021
+[22:47:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=449, y=73, z=-1039} gt{x=450, y=71, z=-1039}
+[22:53:16] [Server thread/INFO]: [Edy_445: Kicked MARK1: Kicked by an operator]
+[22:53:16] [Server thread/INFO]: MARK1 lost connection: Kicked by an operator
+[22:53:16] [Server thread/INFO]: MARK1 left the game
+[22:53:17] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[22:53:17] [Server thread/INFO]: Edy_445 left the game
