@@ -54,3 +54,19 @@
 [03:07:15] [Server thread/INFO]: AbelCS[/127.102.211.230:38687] logged in with entity id 13715 at (380.8703820571218, 122.0, 4.03493811463803)
 [03:07:15] [Server thread/INFO]: AbelCS joined the game
 [03:12:18] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
+[03:16:07] [Server thread/INFO]: AbelCS was impaled by Drowned
+[03:19:10] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[03:19:10] [Server thread/INFO]: AbelCS left the game
+[03:19:13] [Server thread/INFO]: [Edy_445: Stopping the server]
+[03:19:13] [Server thread/INFO]: Stopping server
+[03:19:13] [Server thread/INFO]: Saving players
+[03:19:13] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[03:19:13] [Server thread/INFO]: Edy_445 left the game
+[03:19:13] [Server thread/INFO]: Saving worlds
+[03:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:19:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:19:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
