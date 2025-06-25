@@ -1,91 +1,46 @@
-[20:10:21] [ServerMain/INFO]: Building unoptimized datafixer
-[20:10:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:10:25] [ServerMain/INFO]: Loaded 7 recipes
-[20:10:25] [ServerMain/INFO]: Loaded 1179 advancements
-[20:10:26] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[20:10:26] [Server thread/INFO]: Loading properties
-[20:10:26] [Server thread/INFO]: Default game type: SURVIVAL
-[20:10:26] [Server thread/INFO]: Generating keypair
-[20:10:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:10:27] [Server thread/INFO]: Using epoll channel type
-[20:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:10:27] [Server thread/INFO]: Preparing level "world"
-[20:10:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:10:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:10:34] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[20:10:34] [Worker-Main-3/INFO]: Preparing spawn area: 60%
-[20:10:35] [Server thread/INFO]: Time elapsed: 7451 ms
-[20:10:35] [Server thread/INFO]: Done (7.784s)! For help, type "help"
-[20:11:58] [Server thread/INFO]: AbelCS[/127.102.211.230:42027] logged in with entity id 111 at (428.5902756907327, 64.0, 65.52188733480637)
-[20:11:58] [Server thread/INFO]: AbelCS joined the game
-[20:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
-[20:13:24] [Server thread/INFO]: AbelCS fell from a high place
-[20:14:01] [Server thread/INFO]: MARK1[/127.42.16.212:36881] logged in with entity id 780 at (503.36436000405797, 15.0, 6.016527879741439)
-[20:14:01] [Server thread/INFO]: MARK1 joined the game
-[20:14:21] [Server thread/INFO]: [Not Secure] <MARK1> ola
-[20:14:26] [Server thread/INFO]: [Not Secure] <MARK1> amiguitos
-[20:14:29] [Server thread/INFO]: [Not Secure] <AbelCS> oya
-[20:14:58] [Server thread/INFO]: [Not Secure] <MARK1> abel donde estas?
-[20:15:06] [Server thread/INFO]: [Not Secure] <AbelCS> ya subo
-[20:15:15] [Server thread/INFO]: [Not Secure] <MARK1> hacemos la granja de mobs?
-[20:15:26] [Server thread/INFO]: [Not Secure] <AbelCS> ya
-[20:15:32] [Server thread/INFO]: [Not Secure] <MARK1> sube
-[20:15:34] [Server thread/INFO]: [Not Secure] <AbelCS> ponte los shaders
-[20:15:45] [Server thread/INFO]: [Not Secure] <MARK1> como?
-[20:15:51] [Server thread/INFO]: [Not Secure] <MARK1> no descargue nd pe
-[20:16:10] [Server thread/INFO]: [Not Secure] <AbelCS> anda al wazaaa
-[20:16:23] [Server thread/INFO]: [Not Secure] <AbelCS> y descargaa los 2 q te pase
-[20:16:31] [Server thread/INFO]: [Not Secure] <AbelCS> y lo guardas en descargas
-[20:17:32] [Server thread/INFO]: [Not Secure] <MARK1> go llamada?
-[20:17:39] [Server thread/INFO]: [Not Secure] <AbelCS> te añado
-[20:24:29] [Server thread/INFO]: AbelCS lost connection: Timed out
-[20:24:29] [Server thread/INFO]: AbelCS left the game
-[20:24:44] [Server thread/INFO]: AbelCS[/127.102.211.230:41579] logged in with entity id 2795 at (400.2907762153803, 118.0, 36.439100338995864)
-[20:24:44] [Server thread/INFO]: AbelCS joined the game
-[20:33:01] [Server thread/INFO]: MARK1 has completed the challenge [It Spreads]
-[20:39:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=358, y=-34, z=-31} gt{x=359, y=-34, z=-30}
-[20:44:52] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[20:44:52] [Server thread/INFO]: AbelCS left the game
-[20:45:37] [Server thread/INFO]: AbelCS[/127.102.211.230:35481] logged in with entity id 6171 at (422.8199870016405, 96.0, 24.30000001192093)
-[20:45:37] [Server thread/INFO]: AbelCS joined the game
-[20:46:07] [Server thread/INFO]: AbelCS lost connection: Timed out
-[20:46:07] [Server thread/INFO]: AbelCS left the game
-[20:46:26] [Server thread/INFO]: AbelCS[/127.102.211.230:37901] logged in with entity id 6271 at (422.8199870016405, 96.0, 24.30000001192093)
-[20:46:26] [Server thread/INFO]: AbelCS joined the game
-[20:48:55] [Server thread/INFO]: Edy_445[/127.181.157.249:39275] logged in with entity id 6745 at (370.50001160951126, 116.0, 212.70072607158875)
-[20:48:55] [Server thread/INFO]: Edy_445 joined the game
-[20:48:56] [Server thread/INFO]: AbelCS lost connection: Timed out
-[20:48:56] [Server thread/INFO]: AbelCS left the game
-[20:49:29] [Server thread/INFO]: AbelCS[/127.102.211.230:34499] logged in with entity id 6938 at (382.69999998807907, 110.0, 24.588041189220736)
-[20:49:29] [Server thread/INFO]: AbelCS joined the game
-[20:52:32] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[20:52:32] [Server thread/INFO]: AbelCS left the game
-[20:55:10] [Server thread/INFO]: AbelCS[/127.102.211.230:60087] logged in with entity id 8209 at (382.69999998807907, 110.0, 24.588041189220736)
-[20:55:10] [Server thread/INFO]: AbelCS joined the game
-[20:56:25] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[20:56:25] [Server thread/INFO]: AbelCS left the game
-[20:56:44] [Server thread/INFO]: AbelCS[/127.102.211.230:32849] logged in with entity id 8568 at (376.30000001192093, 112.0, 25.91007813286613)
-[20:56:44] [Server thread/INFO]: AbelCS joined the game
-[20:56:50] [Server thread/INFO]: [Edy_445: Kicked MARK1: Kicked by an operator]
-[20:56:50] [Server thread/INFO]: MARK1 lost connection: Kicked by an operator
-[20:56:50] [Server thread/INFO]: MARK1 left the game
-[20:57:02] [Server thread/INFO]: MARK1[/127.42.16.212:43451] logged in with entity id 8662 at (384.6856404367542, 118.0, 58.28456002770858)
-[20:57:02] [Server thread/INFO]: MARK1 joined the game
-[21:03:00] [Server thread/INFO]: AbelCS lost connection: Timed out
-[21:03:00] [Server thread/INFO]: AbelCS left the game
-[21:07:25] [Server thread/WARN]: MARK1 moved too quickly! 10.088960969534696,0.0,0.3854769183342839
+[21:22:31] [ServerMain/INFO]: Building unoptimized datafixer
+[21:22:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:22:34] [ServerMain/INFO]: Loaded 7 recipes
+[21:22:34] [ServerMain/INFO]: Loaded 1179 advancements
+[21:22:35] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[21:22:35] [Server thread/INFO]: Loading properties
+[21:22:35] [Server thread/INFO]: Default game type: SURVIVAL
+[21:22:35] [Server thread/INFO]: Generating keypair
+[21:22:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:22:36] [Server thread/INFO]: Using epoll channel type
+[21:22:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:22:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:22:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:22:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:22:36] [Server thread/INFO]: Preparing level "world"
+[21:22:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:22:44] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[21:22:44] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[21:22:45] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[21:22:45] [Server thread/INFO]: Time elapsed: 8767 ms
+[21:22:45] [Server thread/INFO]: Done (9.103s)! For help, type "help"
+[21:22:52] [Server thread/INFO]: Edy_445[/127.181.157.249:59825] logged in with entity id 111 at (418.55654523494974, 63.0, 70.5858555747261)
+[21:22:52] [Server thread/INFO]: Edy_445 joined the game
+[21:22:55] [Server thread/INFO]: MARK1[/127.42.16.212:38799] logged in with entity id 112 at (403.29776559277343, 118.0, 74.29748578026917)
+[21:22:55] [Server thread/INFO]: MARK1 joined the game
+[21:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[21:23:59] [Server thread/INFO]: AbelCS[/127.102.211.230:50407] logged in with entity id 407 at (407.2085622608227, 118.0, 32.293703627085065)
+[21:23:59] [Server thread/INFO]: AbelCS joined the game
+[21:30:39] [Server thread/INFO]: Edy_445 has made the advancement [Ice Bucket Challenge]
+[21:52:26] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[21:52:26] [Server thread/INFO]: Edy_445 left the game
