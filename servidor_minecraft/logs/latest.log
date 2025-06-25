@@ -62,3 +62,36 @@
 [22:21:57] [Server thread/INFO]: [Not Secure] <Edy_445> gamemode dios
 [22:22:15] [Server thread/INFO]: [Edy_445: Made AbelCS a server operator]
 [22:22:18] [Server thread/INFO]: [Edy_445: Made MARK1 a server operator]
+[22:24:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=395, y=118, z=50} gt{x=395, y=117, z=50}
+[22:24:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=399, y=118, z=45} gt{x=399, y=117, z=45}
+[22:24:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=400, y=118, z=45} gt{x=399, y=117, z=45}
+[22:24:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=399, y=118, z=44} gt{x=399, y=117, z=44}
+[22:24:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=398, y=118, z=44} gt{x=399, y=117, z=44}
+[22:27:21] [Server thread/INFO]: AbelCS lost connection: Timed out
+[22:27:21] [Server thread/INFO]: AbelCS left the game
+[22:27:29] [Server thread/INFO]: AbelCS[/127.102.211.230:60717] logged in with entity id 16194 at (413.6846470117175, 118.0, 76.25194909878623)
+[22:27:29] [Server thread/INFO]: AbelCS joined the game
+[22:27:46] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:27:46] [Server thread/INFO]: AbelCS left the game
+[22:27:53] [Server thread/INFO]: AbelCS[/127.102.211.230:50165] logged in with entity id 16334 at (413.6846470117175, 118.0, 76.25194909878623)
+[22:27:53] [Server thread/INFO]: AbelCS joined the game
+[22:29:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=172, y=64, z=232} gt{x=172, y=62, z=232}
+[22:30:06] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.1432862913458735,0.0,-10.687616223719658
+[22:30:06] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.354489366069373,0.0,-12.078574275449455
+[22:30:07] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 0.1982405253464492,0.0,-10.84611064186521
+[22:30:07] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 0.24837464539768916,0.0,-12.428805045487863
+[22:30:07] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 0.303253885162718,0.0,-14.01943047005767
+[22:30:11] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 4.141135098920003,0.0,-10.466970951575211
+[22:30:11] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 4.615651956714089,0.0,-11.984809608453718
+[22:30:11] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! 5.060153863530516,0.0,-13.506624299449944
+[22:30:12] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.8982505191255257,0.0,10.66901020498554
+[22:30:12] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.8982505191255257,0.0,10.66901020498554
+[22:30:12] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.8982505191255257,0.0,10.66901020498554
+[22:30:33] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -1.671476445921698,0.0,-10.54637967217775
+[22:30:33] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -1.9210783267073026,0.0,-12.088438587933922
+[22:30:33] [Server thread/WARN]: Boat (vehicle of Edy_445) moved too quickly! -2.165576961174736,0.0,-13.639656197431123
+[22:38:03] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[22:38:03] [Server thread/INFO]: Edy_445 left the game
+[22:41:05] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
+[22:41:48] [Server thread/INFO]: Edy_445[/127.181.157.249:40257] logged in with entity id 26187 at (678.6247587451904, 103.0, -1100.6818751390201)
+[22:41:48] [Server thread/INFO]: Edy_445 joined the game
