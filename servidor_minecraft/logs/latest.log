@@ -144,3 +144,17 @@ Reason: Banned by an operator.
 [03:47:21] [Server thread/INFO]: AbelCS lost connection: Disconnected
 [03:47:21] [Server thread/INFO]: AbelCS left the game
 [03:47:32] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
+[03:47:56] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
+[03:47:58] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[03:47:58] [Server thread/INFO]: Edy_445 left the game
+[03:48:07] [Server thread/INFO]: Stopping the server
+[03:48:07] [Server thread/INFO]: Stopping server
+[03:48:07] [Server thread/INFO]: Saving players
+[03:48:07] [Server thread/INFO]: Saving worlds
+[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
