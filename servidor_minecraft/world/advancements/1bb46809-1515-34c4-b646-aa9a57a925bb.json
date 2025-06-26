@@ -940,6 +940,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-23 02:15:55 +0000",
       "minecraft:spider": "2025-06-23 02:25:23 +0000",
+      "minecraft:creeper": "2025-06-26 00:56:02 +0000",
+      "minecraft:witch": "2025-06-26 00:57:30 +0000",
       "minecraft:zombie": "2025-06-23 00:33:44 +0000",
       "minecraft:drowned": "2025-06-23 01:14:02 +0000",
       "minecraft:zombie_villager": "2025-06-26 00:39:20 +0000"
