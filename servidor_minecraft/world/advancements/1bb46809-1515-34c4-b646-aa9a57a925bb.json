@@ -427,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-26 03:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 01:24:39 +0000"
@@ -790,6 +796,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-23 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-26 03:08:15 +0000"
     },
     "done": true
   },
@@ -1706,11 +1718,13 @@
       "minecraft:snowy_taiga": "2025-06-23 00:30:24 +0000",
       "minecraft:grove": "2025-06-23 02:10:14 +0000",
       "minecraft:jagged_peaks": "2025-06-23 02:08:06 +0000",
+      "minecraft:cold_ocean": "2025-06-26 03:07:35 +0000",
       "minecraft:forest": "2025-06-23 01:14:57 +0000",
       "minecraft:lush_caves": "2025-06-23 02:14:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-23 02:07:38 +0000",
       "minecraft:deep_dark": "2025-06-23 21:25:44 +0000",
-      "minecraft:meadow": "2025-06-23 23:41:10 +0000"
+      "minecraft:meadow": "2025-06-23 23:41:10 +0000",
+      "minecraft:plains": "2025-06-26 03:11:25 +0000"
     },
     "done": false
   },
@@ -1885,6 +1899,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-23 21:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-26 03:08:15 +0000"
     },
     "done": true
   },

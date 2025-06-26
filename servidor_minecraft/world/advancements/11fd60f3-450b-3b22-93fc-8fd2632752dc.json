@@ -570,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 03:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-23 23:58:20 +0000"
@@ -861,6 +867,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 03:14:16 +0000"
     },
     "done": true
   },
@@ -1605,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 03:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 23:34:22 +0000"
@@ -1874,6 +1892,7 @@
       "minecraft:forest": "2025-06-23 23:26:26 +0000",
       "minecraft:lush_caves": "2025-06-25 02:38:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-24 00:15:23 +0000",
+      "minecraft:frozen_peaks": "2025-06-26 03:02:57 +0000",
       "minecraft:deep_dark": "2025-06-24 00:12:05 +0000",
       "minecraft:meadow": "2025-06-23 23:39:38 +0000",
       "minecraft:plains": "2025-06-25 22:36:35 +0000"
