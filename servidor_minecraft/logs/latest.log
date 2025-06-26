@@ -1,89 +1,89 @@
-[00:13:36] [Server thread/WARN]: AbelCS moved too quickly! 0.46335851304070275,0.0,10.178244679439416
-[00:14:06] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:14:06] [Server thread/INFO]: AbelCS left the game
-[00:15:24] [Server thread/INFO]: AbelCS[/127.102.211.230:48957] logged in with entity id 56098 at (397.9670682141071, 117.0, 189.3346752682312)
-[00:15:24] [Server thread/INFO]: AbelCS joined the game
-[00:16:57] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[00:19:43] [Server thread/INFO]: Edy_445 was shot by Skeleton
-[00:19:47] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[00:20:57] [Server thread/INFO]: Edy_445 was shot by Skeleton
-[00:20:59] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[00:31:34] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[00:36:00] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[00:40:04] [Server thread/INFO]: AbelCS has made the advancement [Hot Stuff]
-[00:42:16] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[00:43:20] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[00:43:20] [Server thread/INFO]: Edy_445 left the game
-[00:43:33] [Server thread/INFO]: AbelCS has made the advancement [The Parrots and the Bats]
-[00:49:44] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
-[00:55:02] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[00:56:53] [Server thread/INFO]: Edy_445[/127.181.157.249:33185] logged in with entity id 65693 at (456.30000001192093, 10.0, 264.4634705358571)
-[00:56:53] [Server thread/INFO]: Edy_445 joined the game
-[00:59:20] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:07:33] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:23:42] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[01:23:42] [Server thread/INFO]: AbelCS left the game
-[01:23:53] [Server thread/INFO]: AbelCS[/127.102.211.230:45441] logged in with entity id 76901 at (565.3754743028842, -44.0, 593.6549935743079)
-[01:23:53] [Server thread/INFO]: AbelCS joined the game
-[01:24:11] [Server thread/INFO]: AbelCS was slain by Zombie
-[01:24:15] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[01:24:15] [Server thread/INFO]: AbelCS left the game
-[01:24:28] [Server thread/INFO]: AbelCS[/127.102.211.230:39471] logged in with entity id 77280 at (565.3754743028842, -44.0, 593.6549935743079)
-[01:24:28] [Server thread/INFO]: AbelCS joined the game
-[01:24:43] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:32:41] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Edy_445]
-[01:36:00] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Edy_445]
-[01:36:47] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to MARK1]
-[01:36:57] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:36:58] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[01:37:29] [Server thread/INFO]: MARK1 was impaled on a stalagmite
-[01:37:44] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:37:55] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:38:31] [Server thread/INFO]: [Edy_445: Teleported MARK1 to Edy_445]
-[01:40:26] [Server thread/INFO]: AbelCS drowned
-[01:40:52] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[01:40:55] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:41:00] [Server thread/INFO]: AbelCS lost connection: Timed out
-[01:41:00] [Server thread/INFO]: AbelCS left the game
-[01:41:15] [Server thread/INFO]: AbelCS[/127.102.211.230:43055] logged in with entity id 83734 at (312.7784138093029, -41.74087036376375, 147.7854264063726)
-[01:41:15] [Server thread/INFO]: AbelCS joined the game
-[01:41:32] [Server thread/INFO]: [Edy_445: Set AbelCS's game mode to Spectator Mode]
-[01:42:11] [Server thread/INFO]: [Edy_445: Set AbelCS's game mode to Survival Mode]
-[01:42:35] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[01:42:35] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
-[01:42:50] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[01:45:23] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[01:45:23] [Server thread/INFO]: Edy_445 left the game
-[01:48:53] [Server thread/INFO]: MARK1 was slain by AbelCS
-[01:50:16] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
-[01:52:22] [Server thread/INFO]: AbelCS was shot by MARK1
-[01:53:47] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:54:07] [Server thread/INFO]: Edy_445[/127.181.157.249:46321] logged in with entity id 85618 at (354.98978022912206, -36.0, 185.69999998807907)
-[01:54:07] [Server thread/INFO]: Edy_445 joined the game
-[01:54:16] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[01:54:19] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[01:54:19] [Server thread/INFO]: Edy_445 left the game
-[01:54:23] [Server thread/INFO]: Edy_445[/127.181.157.249:54263] logged in with entity id 85655 at (354.98978022912206, -36.0, 185.69999998807907)
-[01:54:23] [Server thread/INFO]: Edy_445 joined the game
-[01:54:30] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[01:54:47] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[01:56:24] [Server thread/INFO]: MARK1 was slain by Edy_445
-[01:56:30] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to MARK1]
-[01:56:44] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[01:59:02] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Edy_445]
-[01:59:09] [Server thread/INFO]: [Edy_445: Teleported MARK1 to AbelCS]
-[02:00:09] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[02:01:35] [Server thread/INFO]: [Edy_445: Teleported MARK1 to Edy_445]
-[02:01:39] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:01:44] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[02:02:49] [Server thread/INFO]: [Edy_445: Teleported MARK1 to Edy_445]
-[02:04:34] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:08:09] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:09:32] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[02:09:39] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[02:13:17] [Server thread/INFO]: [Not Secure] <MARK1> ewww
-[02:13:23] [Server thread/INFO]: [Edy_445: Kicked AbelCS: Kicked by an operator]
-[02:13:23] [Server thread/INFO]: AbelCS lost connection: Kicked by an operator
-[02:13:23] [Server thread/INFO]: AbelCS left the game
-[02:13:31] [Server thread/INFO]: AbelCS[/127.102.211.230:56455] logged in with entity id 89404 at (390.2867588131614, 118.0, 34.09783917750755)
-[02:13:31] [Server thread/INFO]: AbelCS joined the game
+[02:36:41] [ServerMain/INFO]: Building unoptimized datafixer
+[02:36:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:36:45] [ServerMain/INFO]: Loaded 7 recipes
+[02:36:45] [ServerMain/INFO]: Loaded 1179 advancements
+[02:36:46] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[02:36:46] [Server thread/INFO]: Loading properties
+[02:36:46] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:46] [Server thread/INFO]: Generating keypair
+[02:36:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:46] [Server thread/INFO]: Using epoll channel type
+[02:36:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:46] [Server thread/INFO]: Preparing level "world"
+[02:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[02:36:58] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[02:36:58] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[02:36:58] [Server thread/INFO]: Time elapsed: 11565 ms
+[02:36:58] [Server thread/INFO]: Done (11.958s)! For help, type "help"
+[02:37:06] [Server thread/INFO]: Edy_445[/127.181.157.249:41959] logged in with entity id 99 at (372.7320630242963, 72.7531999805212, -816.6999999880791)
+[02:37:06] [Server thread/INFO]: Edy_445 joined the game
+[02:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[02:37:19] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
+[02:37:34] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
+[02:37:36] [Server thread/WARN]: UUID of added entity already exists: bnj['Chicken'/441, l='ServerLevel[world]', x=540.00, y=92.00, z=-1105.00]
+[02:37:36] [Server thread/WARN]: UUID of added entity already exists: bnv['Pig'/447, l='ServerLevel[world]', x=544.19, y=92.00, z=-1116.47]
+[02:37:42] [Server thread/WARN]: UUID of added entity already exists: bnl['Cow'/498, l='ServerLevel[world]', x=362.47, y=72.00, z=-1232.05]
+[02:37:42] [Server thread/WARN]: UUID of added entity already exists: bnj['Chicken'/502, l='ServerLevel[world]', x=458.50, y=95.00, z=-1232.03]
+[02:37:44] [Server thread/INFO]: MARK1[/127.42.16.212:48077] logged in with entity id 520 at (380.62847768178466, 119.02442408821369, -7.958229250836085)
+[02:37:44] [Server thread/INFO]: MARK1 joined the game
+[02:37:47] [Server thread/WARN]: Edy_445 moved too quickly! 0.030812596619966826,0.0,-10.884909015169569
+[02:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[02:37:58] [Server thread/INFO]: AbelCS[/127.102.211.230:34889] logged in with entity id 933 at (410.1214910261642, 117.0, 25.88729928598781)
+[02:37:58] [Server thread/INFO]: AbelCS joined the game
+[02:38:40] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
+[02:43:15] [Server thread/INFO]: [Edy_445: Kicked MARK1: Kicked by an operator]
+[02:43:15] [Server thread/INFO]: MARK1 lost connection: Kicked by an operator
+[02:43:15] [Server thread/INFO]: MARK1 left the game
+[02:43:40] [Server thread/INFO]: MARK1[/127.42.16.212:42127] logged in with entity id 4980 at (372.225233798566, 86.0, -905.6650200331309)
+[02:43:40] [Server thread/INFO]: MARK1 joined the game
+[02:45:15] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[02:45:15] [Server thread/INFO]: AbelCS left the game
+[02:45:22] [Server thread/INFO]: AbelCS[/127.102.211.230:46497] logged in with entity id 6102 at (398.63550635382904, 118.0, 34.2450936580846)
+[02:45:22] [Server thread/INFO]: AbelCS joined the game
+[02:45:49] [Server thread/INFO]: [Edy_445: Banned Edy_445: Banned by an operator.]
+[02:45:49] [Server thread/INFO]: Edy_445 lost connection: You are banned from this server
+[02:45:49] [Server thread/INFO]: Edy_445 left the game
+[02:46:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:46:29] [Server thread/INFO]: disban Edy_445<--[HERE]
+[02:46:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@33a4ad14[id=11fd60f3-450b-3b22-93fc-8fd2632752dc,name=Edy_445,properties={},legacy=false] (/127.181.157.249:41053): You are banned from this server.
+Reason: Banned by an operator.
+[02:46:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@33a4ad14[id=11fd60f3-450b-3b22-93fc-8fd2632752dc,name=Edy_445,properties={},legacy=false] (/127.181.157.249:41053) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[02:46:33] [Server thread/WARN]: handleDisconnection() called twice
+[02:47:30] [Server thread/INFO]: Unbanned Edy_445
+[02:47:35] [Server thread/INFO]: Edy_445[/127.181.157.249:55323] logged in with entity id 7280 at (592.0528654864759, 95.0, -936.4351454655479)
+[02:47:35] [Server thread/INFO]: Edy_445 joined the game
+[02:47:45] [Server thread/INFO]: [Not Secure] <Edy_445> perdon
+[02:48:12] [Server thread/INFO]: [Not Secure] <Edy_445> tu pinche pvto
+[02:48:24] [Server thread/INFO]: [Not Secure] <AbelCS> quien es el real
+[02:50:24] [Server thread/INFO]: [Edy_445: Banned Herobrine: Banned by an operator.]
+[02:55:11] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to MARK1]
+[02:56:32] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[02:56:32] [Server thread/INFO]: Edy_445 left the game
+[02:56:36] [Server thread/INFO]: MARK1 lost connection: Disconnected
+[02:56:36] [Server thread/INFO]: MARK1 left the game
