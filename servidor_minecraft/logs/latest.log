@@ -87,3 +87,19 @@ Reason: Banned by an operator.
 [02:56:32] [Server thread/INFO]: Edy_445 left the game
 [02:56:36] [Server thread/INFO]: MARK1 lost connection: Disconnected
 [02:56:36] [Server thread/INFO]: MARK1 left the game
+[02:56:58] [Server thread/INFO]: MARK1[/127.42.16.212:60153] logged in with entity id 10773 at (697.8085751142459, 101.0, -1048.699999988079)
+[02:56:58] [Server thread/INFO]: MARK1 joined the game
+[03:01:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=688, y=95, z=-1042} gt{x=689, y=95, z=-1041}
+[03:01:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=688, y=95, z=-1042} gt{x=689, y=95, z=-1041}
+[03:01:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=686, y=95, z=-1039} gt{x=687, y=94, z=-1039}
+[03:01:13] [Server thread/INFO]: Edy_445[/127.181.157.249:57035] logged in with entity id 12465 at (722.7624999880791, 124.0, -1097.2885858409745)
+[03:01:13] [Server thread/INFO]: Edy_445 joined the game
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.5170763017614441
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.49325888691152503
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.47897718820518176
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4721212840389169
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.47055216582468357
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4696150355440971
+[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4690543302300231
+[03:04:27] [Server thread/INFO]: MARK1 lost connection: Disconnected
+[03:04:27] [Server thread/INFO]: MARK1 left the game
