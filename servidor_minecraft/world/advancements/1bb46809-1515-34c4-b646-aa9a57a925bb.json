@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 01:16:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-23 01:02:08 +0000"
@@ -936,12 +942,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 01:16:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-23 02:15:55 +0000",
       "minecraft:spider": "2025-06-23 02:25:23 +0000",
       "minecraft:creeper": "2025-06-26 00:56:02 +0000",
       "minecraft:witch": "2025-06-26 00:57:30 +0000",
+      "minecraft:cave_spider": "2025-06-26 01:15:42 +0000",
       "minecraft:zombie": "2025-06-23 00:33:44 +0000",
       "minecraft:drowned": "2025-06-23 01:14:02 +0000",
       "minecraft:zombie_villager": "2025-06-26 00:39:20 +0000"
@@ -1657,6 +1670,7 @@
       "minecraft:frozen_river": "2025-06-23 00:58:06 +0000",
       "minecraft:river": "2025-06-23 22:19:02 +0000",
       "minecraft:snowy_plains": "2025-06-23 00:29:14 +0000",
+      "minecraft:stony_shore": "2025-06-26 01:23:15 +0000",
       "minecraft:dripstone_caves": "2025-06-23 02:28:00 +0000",
       "minecraft:snowy_taiga": "2025-06-23 00:30:24 +0000",
       "minecraft:grove": "2025-06-23 02:10:14 +0000",
@@ -1720,6 +1734,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-23 02:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 01:16:08 +0000"
     },
     "done": true
   },
