@@ -359,6 +359,7 @@
       "cooked_mutton": "2025-06-23 01:25:19 +0000",
       "sweet_berries": "2025-06-23 23:13:55 +0000",
       "cooked_beef": "2025-06-23 01:59:12 +0000",
+      "porkchop": "2025-06-26 01:30:36 +0000",
       "tropical_fish": "2025-06-23 02:38:58 +0000",
       "bread": "2025-06-24 00:07:04 +0000",
       "rotten_flesh": "2025-06-23 01:15:45 +0000",
@@ -501,6 +502,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-23 21:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-26 01:34:16 +0000"
     },
     "done": true
   },
@@ -1348,6 +1355,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-23 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-26 01:34:16 +0000"
     },
     "done": true
   },
