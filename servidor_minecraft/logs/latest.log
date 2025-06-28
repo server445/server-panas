@@ -1,160 +1,36 @@
-[02:36:41] [ServerMain/INFO]: Building unoptimized datafixer
-[02:36:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:36:45] [ServerMain/INFO]: Loaded 7 recipes
-[02:36:45] [ServerMain/INFO]: Loaded 1179 advancements
-[02:36:46] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[02:36:46] [Server thread/INFO]: Loading properties
-[02:36:46] [Server thread/INFO]: Default game type: SURVIVAL
-[02:36:46] [Server thread/INFO]: Generating keypair
-[02:36:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:36:46] [Server thread/INFO]: Using epoll channel type
-[02:36:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:36:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:36:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:36:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:36:46] [Server thread/INFO]: Preparing level "world"
-[02:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[02:36:58] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[02:36:58] [Worker-Main-3/INFO]: Preparing spawn area: 93%
-[02:36:58] [Server thread/INFO]: Time elapsed: 11565 ms
-[02:36:58] [Server thread/INFO]: Done (11.958s)! For help, type "help"
-[02:37:06] [Server thread/INFO]: Edy_445[/127.181.157.249:41959] logged in with entity id 99 at (372.7320630242963, 72.7531999805212, -816.6999999880791)
-[02:37:06] [Server thread/INFO]: Edy_445 joined the game
-[02:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
-[02:37:19] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[02:37:34] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[02:37:36] [Server thread/WARN]: UUID of added entity already exists: bnj['Chicken'/441, l='ServerLevel[world]', x=540.00, y=92.00, z=-1105.00]
-[02:37:36] [Server thread/WARN]: UUID of added entity already exists: bnv['Pig'/447, l='ServerLevel[world]', x=544.19, y=92.00, z=-1116.47]
-[02:37:42] [Server thread/WARN]: UUID of added entity already exists: bnl['Cow'/498, l='ServerLevel[world]', x=362.47, y=72.00, z=-1232.05]
-[02:37:42] [Server thread/WARN]: UUID of added entity already exists: bnj['Chicken'/502, l='ServerLevel[world]', x=458.50, y=95.00, z=-1232.03]
-[02:37:44] [Server thread/INFO]: MARK1[/127.42.16.212:48077] logged in with entity id 520 at (380.62847768178466, 119.02442408821369, -7.958229250836085)
-[02:37:44] [Server thread/INFO]: MARK1 joined the game
-[02:37:47] [Server thread/WARN]: Edy_445 moved too quickly! 0.030812596619966826,0.0,-10.884909015169569
-[02:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
-[02:37:58] [Server thread/INFO]: AbelCS[/127.102.211.230:34889] logged in with entity id 933 at (410.1214910261642, 117.0, 25.88729928598781)
-[02:37:58] [Server thread/INFO]: AbelCS joined the game
-[02:38:40] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[02:43:15] [Server thread/INFO]: [Edy_445: Kicked MARK1: Kicked by an operator]
-[02:43:15] [Server thread/INFO]: MARK1 lost connection: Kicked by an operator
-[02:43:15] [Server thread/INFO]: MARK1 left the game
-[02:43:40] [Server thread/INFO]: MARK1[/127.42.16.212:42127] logged in with entity id 4980 at (372.225233798566, 86.0, -905.6650200331309)
-[02:43:40] [Server thread/INFO]: MARK1 joined the game
-[02:45:15] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[02:45:15] [Server thread/INFO]: AbelCS left the game
-[02:45:22] [Server thread/INFO]: AbelCS[/127.102.211.230:46497] logged in with entity id 6102 at (398.63550635382904, 118.0, 34.2450936580846)
-[02:45:22] [Server thread/INFO]: AbelCS joined the game
-[02:45:49] [Server thread/INFO]: [Edy_445: Banned Edy_445: Banned by an operator.]
-[02:45:49] [Server thread/INFO]: Edy_445 lost connection: You are banned from this server
-[02:45:49] [Server thread/INFO]: Edy_445 left the game
-[02:46:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:46:29] [Server thread/INFO]: disban Edy_445<--[HERE]
-[02:46:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@33a4ad14[id=11fd60f3-450b-3b22-93fc-8fd2632752dc,name=Edy_445,properties={},legacy=false] (/127.181.157.249:41053): You are banned from this server.
-Reason: Banned by an operator.
-[02:46:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@33a4ad14[id=11fd60f3-450b-3b22-93fc-8fd2632752dc,name=Edy_445,properties={},legacy=false] (/127.181.157.249:41053) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[02:46:33] [Server thread/WARN]: handleDisconnection() called twice
-[02:47:30] [Server thread/INFO]: Unbanned Edy_445
-[02:47:35] [Server thread/INFO]: Edy_445[/127.181.157.249:55323] logged in with entity id 7280 at (592.0528654864759, 95.0, -936.4351454655479)
-[02:47:35] [Server thread/INFO]: Edy_445 joined the game
-[02:47:45] [Server thread/INFO]: [Not Secure] <Edy_445> perdon
-[02:48:12] [Server thread/INFO]: [Not Secure] <Edy_445> tu pinche pvto
-[02:48:24] [Server thread/INFO]: [Not Secure] <AbelCS> quien es el real
-[02:50:24] [Server thread/INFO]: [Edy_445: Banned Herobrine: Banned by an operator.]
-[02:55:11] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to MARK1]
-[02:56:32] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[02:56:32] [Server thread/INFO]: Edy_445 left the game
-[02:56:36] [Server thread/INFO]: MARK1 lost connection: Disconnected
-[02:56:36] [Server thread/INFO]: MARK1 left the game
-[02:56:58] [Server thread/INFO]: MARK1[/127.42.16.212:60153] logged in with entity id 10773 at (697.8085751142459, 101.0, -1048.699999988079)
-[02:56:58] [Server thread/INFO]: MARK1 joined the game
-[03:01:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=688, y=95, z=-1042} gt{x=689, y=95, z=-1041}
-[03:01:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=688, y=95, z=-1042} gt{x=689, y=95, z=-1041}
-[03:01:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=686, y=95, z=-1039} gt{x=687, y=94, z=-1039}
-[03:01:13] [Server thread/INFO]: Edy_445[/127.181.157.249:57035] logged in with entity id 12465 at (722.7624999880791, 124.0, -1097.2885858409745)
-[03:01:13] [Server thread/INFO]: Edy_445 joined the game
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.5170763017614441
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.49325888691152503
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.47897718820518176
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4721212840389169
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.47055216582468357
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4696150355440971
-[03:03:11] [Server thread/WARN]: Boat (vehicle of MARK1) moved wrongly! 0.4690543302300231
-[03:04:27] [Server thread/INFO]: MARK1 lost connection: Disconnected
-[03:04:27] [Server thread/INFO]: MARK1 left the game
-[03:11:35] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:12:04] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:12:17] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[03:12:46] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:14:05] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:15:24] [Server thread/INFO]: Villager btp['Villager'/17416, l='ServerLevel[world]', x=711.73, y=110.00, z=-1119.44] died, message: 'Villager hit the ground too hard'
-[03:15:53] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[03:16:15] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:16:19] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:16:25] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:17:45] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[03:18:02] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:23:04] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:23:42] [Server thread/WARN]: Edy_445 moved too quickly! 0.9502618346778036,0.0,10.815963049037634
-[03:24:29] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:26:04] [Server thread/INFO]: Edy_445 fell from a high place
-[03:26:09] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:26:14] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:26:34] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:26:47] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:26:50] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
-[03:27:05] [Server thread/WARN]: Edy_445 moved too quickly! -0.46602660093992654,3.299999833106355,9.537559790867533
-[03:27:52] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:29:34] [Server thread/INFO]: Villager btp['Villager'/24049, l='ServerLevel[world]', x=371.75, y=62.51, z=-642.81] died, message: 'Villager was impaled by Drowned'
-[03:30:00] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:40] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:42] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:44] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:46] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:48] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:51] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:54] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:57] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:58] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:30:59] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:31:00] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:45:55] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:45:59] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[03:47:21] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[03:47:21] [Server thread/INFO]: AbelCS left the game
-[03:47:32] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
-[03:47:56] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
-[03:47:58] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[03:47:58] [Server thread/INFO]: Edy_445 left the game
-[03:48:07] [Server thread/INFO]: Stopping the server
-[03:48:07] [Server thread/INFO]: Stopping server
-[03:48:07] [Server thread/INFO]: Saving players
-[03:48:07] [Server thread/INFO]: Saving worlds
-[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:36:12] [ServerMain/INFO]: Building unoptimized datafixer
+[02:36:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:36:15] [ServerMain/INFO]: Loaded 7 recipes
+[02:36:15] [ServerMain/INFO]: Loaded 1179 advancements
+[02:36:16] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[02:36:16] [Server thread/INFO]: Loading properties
+[02:36:16] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:16] [Server thread/INFO]: Generating keypair
+[02:36:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:16] [Server thread/INFO]: Using epoll channel type
+[02:36:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:16] [Server thread/INFO]: Preparing level "world"
+[02:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:23] [Worker-Main-1/INFO]: Preparing spawn area: 27%
+[02:36:24] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[02:36:24] [Server thread/INFO]: Time elapsed: 7077 ms
+[02:36:24] [Server thread/INFO]: Done (7.324s)! For help, type "help"
+[02:36:29] [Server thread/INFO]: MARK1[/127.42.16.212:34045] logged in with entity id 99 at (694.6999999880791, 97.9375, -1041.699999988079)
+[02:36:29] [Server thread/INFO]: MARK1 joined the game
+[02:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
