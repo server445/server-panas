@@ -55,3 +55,16 @@
 [02:52:14] [Server thread/INFO]: AbelCS[/127.102.211.230:53933] logged in with entity id 3313 at (700.6999999880791, 104.0, -1064.400204490398)
 [02:52:14] [Server thread/INFO]: AbelCS joined the game
 [03:02:38] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
+[03:25:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:25:20] [Server thread/INFO]: yo<--[HERE]
+[03:25:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:25:25] [Server thread/INFO]: yo<--[HERE]
+[03:26:36] [Server thread/INFO]: You whisper to AbelCS: hola
+[03:26:43] [Server thread/INFO]: [Not Secure] <AbelCS> ?
+[03:27:12] [Server thread/INFO]: You whisper to AbelCS: me recuerdas
+[03:27:21] [Server thread/INFO]: [Not Secure] <AbelCS> quien sos
+[03:32:32] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
+[03:34:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=601, y=101, z=-1049} gt{x=600, y=100, z=-1051}
+[03:34:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=597, y=99, z=-1050} gt{x=598, y=99, z=-1050}
+[03:39:49] [Server thread/INFO]: Edy_445[/127.181.157.249:52137] logged in with entity id 21786 at (699.0176167839364, 101.0, -1047.4121215397429)
+[03:39:49] [Server thread/INFO]: Edy_445 joined the game
