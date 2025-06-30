@@ -60,3 +60,11 @@
 [22:02:03] [Server thread/INFO]: AbelCS left the game
 [22:02:11] [Server thread/INFO]: AbelCS[/127.102.211.230:51599] logged in with entity id 2419 at (404.134441429965, 118.0, 32.14308949920037)
 [22:02:11] [Server thread/INFO]: AbelCS joined the game
+[22:05:54] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:05:54] [Server thread/INFO]: AbelCS left the game
+[22:06:04] [Server thread/INFO]: AbelCS[/127.102.211.230:41227] logged in with entity id 3122 at (374.5, 118.0, 28.5)
+[22:06:04] [Server thread/INFO]: AbelCS joined the game
+[22:06:35] [Server thread/INFO]: AbelCS lost connection: Timed out
+[22:06:35] [Server thread/INFO]: AbelCS left the game
+[22:06:51] [Server thread/INFO]: AbelCS[/127.102.211.230:45425] logged in with entity id 3326 at (374.5, 118.0, 28.5)
+[22:06:51] [Server thread/INFO]: AbelCS joined the game
