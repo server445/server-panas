@@ -121,3 +121,10 @@
 [23:24:24] [Server thread/INFO]: AbelCS[/127.102.211.230:54827] logged in with entity id 24330 at (374.5, 118.0, 28.5)
 [23:24:24] [Server thread/INFO]: AbelCS joined the game
 [23:24:50] [Server thread/INFO]: Villager btp['Villager'/24376, l='ServerLevel[world]', x=375.50, y=109.00, z=18.51] died, message: 'Villager drowned'
+[23:25:38] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
+[23:25:50] [Server thread/INFO]: Villager btp['Villager'/18416, l='ServerLevel[world]', x=372.50, y=69.06, z=-797.53] died, message: 'Villager was slain by Edy_445'
+[23:25:57] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
+[23:26:15] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
+[23:27:48] [Server thread/INFO]: [Edy_445: Set own game mode to Creative Mode]
+[23:28:21] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
+[23:30:57] [Server thread/INFO]: [Edy_445: Gamerule keepInventory is now set to: false]
