@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-30 23:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-23 23:33:17 +0000"
@@ -571,6 +577,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-06-23 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-30 23:17:06 +0000"
     },
     "done": true
   },
@@ -1117,6 +1129,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-23 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-30 23:17:06 +0000"
     },
     "done": true
   },

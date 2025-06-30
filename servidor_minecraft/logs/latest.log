@@ -115,3 +115,9 @@
 [23:00:02] [Server thread/INFO]: AbelCS[/127.102.211.230:33533] logged in with entity id 15641 at (388.64047930804406, 118.0, 24.431260212525142)
 [23:00:02] [Server thread/INFO]: AbelCS joined the game
 [23:08:08] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Edy_445]
+[23:23:43] [Server thread/INFO]: AbelCS fell from a high place
+[23:24:04] [Server thread/INFO]: AbelCS lost connection: Timed out
+[23:24:04] [Server thread/INFO]: AbelCS left the game
+[23:24:24] [Server thread/INFO]: AbelCS[/127.102.211.230:54827] logged in with entity id 24330 at (374.5, 118.0, 28.5)
+[23:24:24] [Server thread/INFO]: AbelCS joined the game
+[23:24:50] [Server thread/INFO]: Villager btp['Villager'/24376, l='ServerLevel[world]', x=375.50, y=109.00, z=18.51] died, message: 'Villager drowned'
