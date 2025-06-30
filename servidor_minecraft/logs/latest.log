@@ -75,3 +75,30 @@
 [22:39:47] [Server thread/INFO]: Edy_445[/127.181.157.249:50767] logged in with entity id 8640 at (366.6813443120515, 116.0, 201.3567940160481)
 [22:39:47] [Server thread/INFO]: Edy_445 joined the game
 [22:42:44] [Server thread/INFO]: [Edy_445: Set own game mode to Spectator Mode]
+[22:46:08] [Server thread/INFO]: [Edy_445: Set own game mode to Survival Mode]
+[22:46:27] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
+[22:48:41] [Server thread/INFO]: AbelCS lost connection: Timed out
+[22:48:41] [Server thread/INFO]: AbelCS left the game
+[22:48:45] [Server thread/INFO]: AbelCS[/127.102.211.230:57045] logged in with entity id 13349 at (394.62069094095983, 112.0, 227.95736653322425)
+[22:48:45] [Server thread/INFO]: AbelCS joined the game
+[22:49:02] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:49:02] [Server thread/INFO]: AbelCS left the game
+[22:49:07] [Server thread/INFO]: AbelCS[/127.102.211.230:35935] logged in with entity id 13403 at (394.62069094095983, 112.0, 227.95736653322425)
+[22:49:07] [Server thread/INFO]: AbelCS joined the game
+[22:49:19] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:49:19] [Server thread/INFO]: AbelCS left the game
+[22:49:22] [Server thread/INFO]: AbelCS[/127.102.211.230:59651] logged in with entity id 13472 at (394.62069094095983, 112.0, 227.95736653322425)
+[22:49:22] [Server thread/INFO]: AbelCS joined the game
+[22:52:08] [Server thread/INFO]: AbelCS lost connection: Timed out
+[22:52:08] [Server thread/INFO]: AbelCS left the game
+[22:52:38] [Server thread/INFO]: AbelCS[/127.102.211.230:34155] logged in with entity id 14253 at (404.80200283324234, 118.0, 21.564319924025217)
+[22:52:38] [Server thread/INFO]: AbelCS joined the game
+[22:52:50] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:52:50] [Server thread/INFO]: AbelCS left the game
+[22:52:54] [Server thread/INFO]: AbelCS[/127.102.211.230:59117] logged in with entity id 14322 at (404.80200283324234, 118.0, 21.564319924025217)
+[22:52:54] [Server thread/INFO]: AbelCS joined the game
+[22:53:19] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[22:53:19] [Server thread/INFO]: AbelCS left the game
+[22:53:35] [Server thread/INFO]: AbelCS[/127.102.211.230:58403] logged in with entity id 14504 at (404.80200283324234, 118.0, 21.564319924025217)
+[22:53:35] [Server thread/INFO]: AbelCS joined the game
+[22:54:02] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
