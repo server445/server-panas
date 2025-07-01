@@ -1458,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-01 03:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-23 00:45:45 +0000"
@@ -1498,6 +1504,7 @@
       "pumpkin_pie": "2025-07-01 01:22:38 +0000",
       "bread": "2025-06-25 20:23:48 +0000",
       "rotten_flesh": "2025-06-23 00:38:35 +0000",
+      "suspicious_stew": "2025-07-01 03:22:08 +0000",
       "cooked_chicken": "2025-06-23 01:59:31 +0000",
       "carrot": "2025-07-01 01:11:44 +0000"
     },

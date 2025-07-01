@@ -1480,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-01 03:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-23 01:28:52 +0000"
@@ -1513,6 +1519,7 @@
       "mutton": "2025-06-28 04:17:28 +0000",
       "bread": "2025-06-24 00:07:04 +0000",
       "rotten_flesh": "2025-06-23 01:15:45 +0000",
+      "suspicious_stew": "2025-07-01 03:21:33 +0000",
       "cooked_chicken": "2025-06-23 01:57:37 +0000",
       "cooked_salmon": "2025-07-01 02:48:23 +0000",
       "carrot": "2025-07-01 02:35:10 +0000"
