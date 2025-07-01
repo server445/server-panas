@@ -52,3 +52,5 @@
 [03:04:38] [Server thread/INFO]: [AbelCS: Set the weather to rain]
 [03:04:48] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
 [03:05:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=412, y=118, z=44} gt{x=411, y=117, z=42}
+[03:09:29] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
+[03:11:19] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
