@@ -60,3 +60,10 @@
 [03:34:24] [Server thread/INFO]: [Not Secure] <AbelCS> time
 [03:34:46] [Server thread/INFO]: Villager btp['Nitwit'/24374, l='ServerLevel[world]', x=401.50, y=118.77, z=11.15] died, message: 'Nitwit was slain by AbelCS'
 [03:34:50] [Server thread/INFO]: MARK1 has made the advancement [Surge Protector]
+[04:24:25] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
+[04:24:59] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[04:24:59] [Server thread/INFO]: AbelCS left the game
+[04:25:28] [Server thread/INFO]: MARK1 lost connection: Disconnected
+[04:25:28] [Server thread/INFO]: MARK1 left the game
+[04:28:23] [Server thread/INFO]: MARK1[/127.16.111.220:56545] logged in with entity id 86955 at (433.06120969169046, 119.0, 21.490604842388002)
+[04:28:23] [Server thread/INFO]: MARK1 joined the game
