@@ -56,3 +56,7 @@
 [03:11:19] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
 [03:26:22] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
 [03:26:59] [Server thread/INFO]: AbelCS has made the advancement [Surge Protector]
+[03:28:59] [Server thread/INFO]: [AbelCS: Set the weather to clear]
+[03:34:24] [Server thread/INFO]: [Not Secure] <AbelCS> time
+[03:34:46] [Server thread/INFO]: Villager btp['Nitwit'/24374, l='ServerLevel[world]', x=401.50, y=118.77, z=11.15] died, message: 'Nitwit was slain by AbelCS'
+[03:34:50] [Server thread/INFO]: MARK1 has made the advancement [Surge Protector]
