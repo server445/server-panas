@@ -35,3 +35,20 @@
 [02:21:57] [Server thread/INFO]: AbelCS left the game
 [02:22:07] [Server thread/INFO]: AbelCS[/127.102.211.230:39731] logged in with entity id 59087 at (341.2007788538464, 71.0, -503.38229007988)
 [02:22:07] [Server thread/INFO]: AbelCS joined the game
+[02:59:14] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
+[02:59:41] [Server thread/INFO]: AbelCS lost connection: Timed out
+[02:59:41] [Server thread/INFO]: AbelCS left the game
+[03:00:25] [Server thread/INFO]: AbelCS[/127.102.211.230:33307] logged in with entity id 68798 at (402.8651200441012, 117.9375, 35.51485227203181)
+[03:00:25] [Server thread/INFO]: AbelCS joined the game
+[03:00:39] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[03:00:39] [Server thread/INFO]: AbelCS left the game
+[03:00:46] [Server thread/INFO]: AbelCS[/127.102.211.230:43421] logged in with entity id 68884 at (402.8651200441012, 117.9375, 35.51485227203181)
+[03:00:46] [Server thread/INFO]: AbelCS joined the game
+[03:00:58] [Server thread/INFO]: AbelCS lost connection: Disconnected
+[03:00:58] [Server thread/INFO]: AbelCS left the game
+[03:01:04] [Server thread/INFO]: AbelCS[/127.102.211.230:45665] logged in with entity id 68968 at (402.8651200441012, 117.9375, 35.51485227203181)
+[03:01:04] [Server thread/INFO]: AbelCS joined the game
+[03:01:23] [Server thread/INFO]: AbelCS was slain by Zombie
+[03:04:38] [Server thread/INFO]: [AbelCS: Set the weather to rain]
+[03:04:48] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
+[03:05:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=412, y=118, z=44} gt{x=411, y=117, z=42}
