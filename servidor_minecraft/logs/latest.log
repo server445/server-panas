@@ -6,3 +6,22 @@
 [00:31:35] [Server thread/INFO]: MARK1 fell from a high place
 [00:58:55] [Server thread/INFO]: AbelCS lost connection: Timed out
 [00:58:55] [Server thread/INFO]: AbelCS left the game
+[01:10:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=384, y=119, z=41} gt{x=385, y=117, z=40}
+[01:18:32] [Server thread/INFO]: AbelCS[/127.102.211.230:58803] logged in with entity id 44424 at (372.30000001192093, 118.875, 12.300000011920929)
+[01:18:32] [Server thread/INFO]: AbelCS joined the game
+[01:21:57] [Server thread/INFO]: [Not Secure] <AbelCS> donde estas
+[01:22:13] [Server thread/INFO]: [Not Secure] <MARK1> aqui
+[01:22:21] [Server thread/INFO]: [Not Secure] <AbelCS> a
+[01:23:06] [Server thread/INFO]: [Not Secure] <AbelCS> voy a pescar
+[01:23:14] [Server thread/INFO]: [Not Secure] <AbelCS> para el gato
+[01:23:29] [Server thread/WARN]: AbelCS moved too quickly! 0.17666888242303003,-11.244647322797647,-0.417996649202351
+[01:24:01] [Server thread/INFO]: AbelCS has made the advancement [Fishy Business]
+[01:24:22] [Server thread/INFO]: [Not Secure] <AbelCS> gey
+[01:24:29] [Server thread/INFO]: [Not Secure] <MARK1> ooo
+[01:24:46] [Server thread/INFO]: [Not Secure] <AbelCS> gey
+[01:25:14] [Server thread/INFO]: [Not Secure] <AbelCS> voy a hacer mi fabrica de estupefacientes
+[01:25:26] [Server thread/INFO]: [Not Secure] <MARK1> y eso que es?
+[01:27:18] [Server thread/INFO]: AbelCS lost connection: Timed out
+[01:27:18] [Server thread/INFO]: AbelCS left the game
+[01:27:46] [Server thread/INFO]: AbelCS[/127.102.211.230:47255] logged in with entity id 46263 at (413.2229494776326, 118.0, 35.337142266852695)
+[01:27:46] [Server thread/INFO]: AbelCS joined the game
