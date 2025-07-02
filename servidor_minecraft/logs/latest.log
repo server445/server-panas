@@ -37,3 +37,15 @@
 [00:09:50] [Server thread/INFO]: AbelCS[/127.102.211.230:34849] logged in with entity id 95 at (379.53557634818, 110.5625, 26.675267711814175)
 [00:09:50] [Server thread/INFO]: AbelCS joined the game
 [00:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[00:26:30] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
+[00:27:01] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
+[00:31:06] [Server thread/INFO]: AbelCS lost connection: Timed out
+[00:31:06] [Server thread/INFO]: AbelCS left the game
+[00:31:14] [Server thread/INFO]: AbelCS[/127.102.211.230:54339] logged in with entity id 3267 at (382.5907030553407, 110.0, 24.62275372464158)
+[00:31:14] [Server thread/INFO]: AbelCS joined the game
+[00:31:44] [Server thread/INFO]: AbelCS lost connection: Timed out
+[00:31:44] [Server thread/INFO]: AbelCS left the game
+[00:31:50] [Server thread/INFO]: MARK1[/127.16.111.220:37481] logged in with entity id 3470 at (433.06120969169046, 119.0, 21.490604842388002)
+[00:31:50] [Server thread/INFO]: MARK1 joined the game
+[00:32:46] [Server thread/INFO]: AbelCS[/127.102.211.230:41541] logged in with entity id 3759 at (382.5907030553407, 110.0, 24.62275372464158)
+[00:32:46] [Server thread/INFO]: AbelCS joined the game
