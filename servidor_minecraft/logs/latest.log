@@ -1,345 +1,70 @@
-[00:04:36] [ServerMain/INFO]: Building unoptimized datafixer
-[00:04:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:04:39] [ServerMain/INFO]: Loaded 7 recipes
-[00:04:40] [ServerMain/INFO]: Loaded 1179 advancements
-[00:04:41] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[00:04:41] [Server thread/INFO]: Loading properties
-[00:04:41] [Server thread/INFO]: Default game type: SURVIVAL
-[00:04:41] [Server thread/INFO]: Generating keypair
-[00:04:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:04:41] [Server thread/INFO]: Using epoll channel type
-[00:04:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:04:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:04:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:04:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:04:41] [Server thread/INFO]: Preparing level "world"
-[00:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:04:49] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[00:04:49] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[00:04:50] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[00:04:50] [Server thread/INFO]: Time elapsed: 8579 ms
-[00:04:50] [Server thread/INFO]: Done (8.832s)! For help, type "help"
-[00:09:50] [Server thread/INFO]: AbelCS[/127.102.211.230:34849] logged in with entity id 95 at (379.53557634818, 110.5625, 26.675267711814175)
-[00:09:50] [Server thread/INFO]: AbelCS joined the game
-[00:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[00:26:30] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
-[00:27:01] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
-[00:31:06] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:31:06] [Server thread/INFO]: AbelCS left the game
-[00:31:14] [Server thread/INFO]: AbelCS[/127.102.211.230:54339] logged in with entity id 3267 at (382.5907030553407, 110.0, 24.62275372464158)
-[00:31:14] [Server thread/INFO]: AbelCS joined the game
-[00:31:44] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:31:44] [Server thread/INFO]: AbelCS left the game
-[00:31:50] [Server thread/INFO]: MARK1[/127.16.111.220:37481] logged in with entity id 3470 at (433.06120969169046, 119.0, 21.490604842388002)
-[00:31:50] [Server thread/INFO]: MARK1 joined the game
-[00:32:46] [Server thread/INFO]: AbelCS[/127.102.211.230:41541] logged in with entity id 3759 at (382.5907030553407, 110.0, 24.62275372464158)
-[00:32:46] [Server thread/INFO]: AbelCS joined the game
-[00:42:45] [Server thread/INFO]: [Not Secure] <AbelCS> OOOOOOH
-[00:42:59] [Server thread/INFO]: [Not Secure] <AbelCS> tanto depositas?
-[00:43:15] [Server thread/INFO]: [Not Secure] <MARK1> estaba cenando
-[00:43:45] [Server thread/INFO]: [Not Secure] <AbelCS> aya
-[00:43:48] [Server thread/INFO]: [Not Secure] <AbelCS> xd
-[00:43:53] [Server thread/INFO]: [Not Secure] <AbelCS> llamame
-[00:45:49] [Server thread/INFO]: Villager btp['Villager'/3510, l='ServerLevel[world]', x=383.30, y=110.00, z=18.30] died, message: 'Villager was slain by AbelCS'
-[00:46:48] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:47:07] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:47:20] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:47:31] [Server thread/INFO]: [Not Secure] <MARK1> oo
-[00:47:32] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:47:32] [Server thread/INFO]: AbelCS left the game
-[00:47:37] [Server thread/INFO]: AbelCS[/127.102.211.230:39779] logged in with entity id 6387 at (381.48795244007175, 111.0625, 13.074245741149088)
-[00:47:37] [Server thread/INFO]: AbelCS joined the game
-[00:47:47] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:49:01] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:49:22] [Server thread/INFO]: [Not Secure] <MARK1> lo mato?
-[00:49:33] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:49:34] [Server thread/INFO]: [Not Secure] <AbelCS> qoe q
-[00:49:46] [Server thread/INFO]: [Not Secure] <AbelCS> otro?
-[00:50:01] [Server thread/INFO]: [Not Secure] <AbelCS> agarra mis cosas y guarda
-[00:51:16] [Server thread/INFO]: [Not Secure] <AbelCS> y el pico?
-[00:51:32] [Server thread/INFO]: [Not Secure] <MARK1> yio no se
-[00:51:37] [Server thread/INFO]: [Not Secure] <MARK1> no lo tengo
-[00:51:37] [Server thread/INFO]: [Not Secure] <AbelCS> lo tengo
-[00:53:58] [Server thread/INFO]: [Not Secure] <AbelCS> duerme
-[00:54:31] [Server thread/INFO]: AbelCS was slain by Iron Golem
-[00:54:33] [Server thread/INFO]: [Not Secure] <MARK1> esq ando hablando con mi mujer p
-[00:54:43] [Server thread/INFO]: [Not Secure] <AbelCS> oye y mis esmeraldas?
-[00:55:02] [Server thread/INFO]: [Not Secure] <MARK1> cusntas eran?
-[00:55:07] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:55:07] [Server thread/INFO]: AbelCS left the game
-[00:55:27] [Server thread/INFO]: AbelCS[/127.102.211.230:41717] logged in with entity id 7412 at (389.69999998807907, 117.0, 13.886002960264404)
-[00:55:27] [Server thread/INFO]: AbelCS joined the game
-[00:58:30] [Server thread/INFO]: [Not Secure] <AbelCS> por salir
-[00:58:58] [Server thread/INFO]: [Not Secure] <MARK1> no lo mates
-[01:02:21] [Server thread/INFO]: [Not Secure] <MARK1> mano
-[01:02:43] [Server thread/INFO]: [Not Secure] <MARK1> nos sirve por el momento fortuna 3?
-[01:02:47] [Server thread/INFO]: [Not Secure] <AbelCS> siiss
-[01:02:55] [Server thread/INFO]: [Not Secure] <AbelCS> pa la nederite
-[01:02:56] [Server thread/INFO]: [Not Secure] <MARK1> que penA
-[01:03:01] [Server thread/INFO]: [Not Secure] <AbelCS> joder
-[01:03:03] [Server thread/INFO]: [Not Secure] <MARK1> lo rompi
-[01:03:13] [Server thread/INFO]: [Not Secure] <AbelCS> jodeeeer
-[01:05:24] [Server thread/INFO]: [Not Secure] <MARK1> yaaaaaa
-[01:05:34] [Server thread/INFO]: [Not Secure] <AbelCS> awebo
-[01:05:38] [Server thread/INFO]: [Not Secure] <MARK1> tenemos reparación
-[01:07:13] [Server thread/INFO]: AbelCS lost connection: Timed out
-[01:07:13] [Server thread/INFO]: AbelCS left the game
-[01:07:20] [Server thread/INFO]: AbelCS[/127.102.211.230:40129] logged in with entity id 9148 at (373.03750002384186, 111.0, 26.69999998807907)
-[01:07:20] [Server thread/INFO]: AbelCS joined the game
-[01:07:31] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[01:07:31] [Server thread/INFO]: AbelCS left the game
-[01:07:34] [Server thread/INFO]: AbelCS[/127.102.211.230:47611] logged in with entity id 9199 at (373.03750002384186, 111.0, 26.69999998807907)
-[01:07:34] [Server thread/INFO]: AbelCS joined the game
-[01:07:42] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[01:07:42] [Server thread/INFO]: AbelCS left the game
-[01:07:46] [Server thread/INFO]: AbelCS[/127.102.211.230:51699] logged in with entity id 9246 at (373.03750002384186, 111.0, 26.69999998807907)
-[01:07:46] [Server thread/INFO]: AbelCS joined the game
-[01:09:02] [Server thread/INFO]: [Not Secure] <MARK1> oe
-[01:09:07] [Server thread/INFO]: [Not Secure] <AbelCS> k
-[01:09:10] [Server thread/INFO]: [Not Secure] <MARK1> necesitamos un yunque
-[01:09:28] [Server thread/INFO]: [Not Secure] <AbelCS> cuanto hierro necesitamos
-[01:09:41] [Server thread/INFO]: [Not Secure] <MARK1> son 3 cubos de hierro
-[01:10:06] [Server thread/INFO]: [Not Secure] <MARK1> bloques de hierro
-[01:10:11] [Server thread/INFO]: [Not Secure] <MARK1> 3
-[01:10:17] [Server thread/INFO]: [Not Secure] <MARK1> y hierro
-[01:10:53] [Server thread/INFO]: [Not Secure] <MARK1> vamos mina?
-[01:11:07] [Server thread/INFO]: [Not Secure] <AbelCS> ya tengo un bloque
-[01:14:51] [Server thread/INFO]: [Not Secure] <AbelCS> me tepeo a ti
-[01:14:54] [Server thread/INFO]: [Not Secure] <AbelCS> ?
-[01:15:02] [Server thread/INFO]: [Not Secure] <MARK1> estoy en la mina
-[01:15:07] [Server thread/INFO]: [Not Secure] <AbelCS> por eso
-[01:15:09] [Server thread/INFO]: [Not Secure] <MARK1> busco hierro
-[01:15:17] [Server thread/WARN]: MARK1 moved too quickly! -0.07718836720772515,-10.573922785720594,0.6880754518649539
-[01:15:23] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:16:44] [Server thread/INFO]: [Not Secure] <MARK1> 1 encontre
-[01:16:48] [Server thread/INFO]: [Not Secure] <AbelCS> xd
-[01:18:42] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=423, y=-24, z=-20} gt{x=422, y=-26, z=-21}
-[01:22:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=511, y=15, z=-74} gt{x=510, y=15, z=-73}
-[01:22:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=479, y=-52, z=1} gt{x=476, y=-51, z=3}
-[01:22:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=479, y=-52, z=1} gt{x=476, y=-51, z=3}
-[01:22:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=477, y=-52, z=3} gt{x=477, y=-52, z=2}
-[01:22:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=477, y=-52, z=3} gt{x=477, y=-52, z=2}
-[01:22:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=477, y=-52, z=3} gt{x=477, y=-52, z=2}
-[01:22:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=477, y=-52, z=3} gt{x=477, y=-52, z=2}
-[01:23:09] [Server thread/INFO]: [Not Secure] <MARK1> tengo 23 ya
-[01:23:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=523, y=13, z=-68} gt{x=524, y=12, z=-69}
-[01:23:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=522, y=13, z=-70} gt{x=524, y=12, z=-70}
-[01:23:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=523, y=13, z=-71} gt{x=524, y=12, z=-70}
-[01:24:13] [Server thread/INFO]: AbelCS has made the advancement [Ice Bucket Challenge]
-[01:24:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=520, y=13, z=-50} gt{x=521, y=13, z=-50}
-[01:24:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=520, y=13, z=-50} gt{x=521, y=13, z=-50}
-[01:24:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=520, y=13, z=-50} gt{x=521, y=13, z=-50}
-[01:24:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=520, y=13, z=-50} gt{x=521, y=13, z=-50}
-[01:24:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=520, y=13, z=-50} gt{x=521, y=13, z=-50}
-[01:24:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=531, y=13, z=-46} gt{x=531, y=12, z=-45}
-[01:25:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=531, y=14, z=-44} gt{x=531, y=13, z=-44}
-[01:26:52] [Server thread/INFO]: [Not Secure] <MARK1> cuanto?
-[01:27:15] [Server thread/INFO]: [Not Secure] <AbelCS> yo estoy picando obsidiana
-[01:27:20] [Server thread/INFO]: [Not Secure] <AbelCS> para la mesa
-[01:28:07] [Server thread/INFO]: [Not Secure] <MARK1> pica para un portal
-[01:28:13] [Server thread/INFO]: [Not Secure] <MARK1> tambien p
-[01:28:16] [Server thread/INFO]: [Not Secure] <AbelCS> ya tengo
-[01:28:25] [Server thread/INFO]: [Not Secure] <MARK1> tienes diamantes ?
-[01:28:32] [Server thread/INFO]: [Not Secure] <AbelCS> ne
-[01:28:47] [Server thread/INFO]: [Not Secure] <MARK1> la mesa es con diamantes p
-[01:28:55] [Server thread/INFO]: [Not Secure] <AbelCS> hay q busca
-[01:31:02] [Server thread/INFO]: [Not Secure] <MARK1> capa?
-[01:31:11] [Server thread/INFO]: [Not Secure] <AbelCS> -56
-[01:31:38] [Server thread/INFO]: [Not Secure] <MARK1> chuu
-[01:31:45] [Server thread/INFO]: [Not Secure] <MARK1> ya tengo hierro
-[01:32:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=515, y=-13, z=27} gt{x=515, y=-13, z=26}
-[01:37:13] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:37:27] [Server thread/INFO]: [Not Secure] <AbelCS> toque
-[01:42:24] [Server thread/INFO]: [Not Secure] <AbelCS> q jue
-[01:45:10] [Server thread/INFO]: [Not Secure] <AbelCS> pedro
-[01:45:15] [Server thread/INFO]: [Not Secure] <MARK1> dime
-[01:45:18] [Server thread/INFO]: [Not Secure] <AbelCS> llegamos a la bedrock
-[01:45:24] [Server thread/INFO]: [Not Secure] <MARK1> asu
-[01:45:40] [Server thread/INFO]: [Not Secure] <AbelCS> aca nica hay mineral
-[01:46:11] [Server thread/INFO]: [Not Secure] <MARK1> pero es -56
-[01:46:19] [Server thread/INFO]: [Not Secure] <AbelCS> -60
-[01:46:35] [Server thread/INFO]: [Not Secure] <MARK1> donde yo estoy p
-[01:46:38] [Server thread/INFO]: [Not Secure] <AbelCS> hasta la -56 hay mineral bueno
-[01:46:40] [Server thread/INFO]: [Not Secure] <MARK1> que haces abajo
-[01:46:45] [Server thread/INFO]: [Not Secure] <AbelCS> tu estas en -60
-[01:46:56] [Server thread/INFO]: [Not Secure] <MARK1> dice -56
-[01:47:24] [Server thread/INFO]: AbelCS fell from a high place
-[01:47:36] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[01:47:59] [Server thread/INFO]: [AbelCS: Set own game mode to Spectator Mode]
-[01:48:29] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
-[01:50:07] [Server thread/INFO]: [Not Secure] <MARK1> subire
-[01:50:13] [Server thread/INFO]: [Not Secure] <AbelCS> ya
-[01:50:55] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
-[01:53:36] [Server thread/WARN]: MARK1 moved too quickly! 0.22689440621644508,-10.300852758601312,0.7171213135271906
-[01:53:39] [Server thread/INFO]: MARK1 fell from a high place
-[01:53:46] [Server thread/INFO]: [Not Secure] <MARK1> noooo
-[01:54:02] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
-[01:54:07] [Server thread/INFO]: [Not Secure] <AbelCS> pera
-[01:54:21] [Server thread/INFO]: [Not Secure] <AbelCS> te pongo en espectador?
-[01:54:26] [Server thread/INFO]: [Not Secure] <MARK1> no
-[01:57:00] [Server thread/INFO]: [Not Secure] <AbelCS> encontre 2 diamantes
-[01:57:22] [Server thread/INFO]: [Not Secure] <MARK1> usu
-[01:58:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=503, y=-38, z=-114} gt{x=503, y=-38, z=-115}
-[01:58:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=503, y=-38, z=-114} gt{x=503, y=-38, z=-115}
-[01:58:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=513, y=-39, z=-127} gt{x=515, y=-39, z=-127}
-[01:58:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=513, y=-39, z=-127} gt{x=515, y=-39, z=-127}
-[02:00:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=518, y=-14, z=-110} gt{x=519, y=-15, z=-110}
-[02:01:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=551, y=-12, z=-112} gt{x=551, y=-13, z=-112}
-[02:01:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=551, y=-11, z=-116} gt{x=550, y=-11, z=-116}
-[02:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=555, y=-14, z=-111} gt{x=556, y=-14, z=-112}
-[02:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=555, y=-14, z=-111} gt{x=556, y=-14, z=-112}
-[02:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=555, y=-14, z=-111} gt{x=556, y=-14, z=-112}
-[02:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=555, y=-14, z=-111} gt{x=556, y=-14, z=-112}
-[02:01:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=555, y=-14, z=-111} gt{x=556, y=-14, z=-112}
-[02:02:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=526, y=-9, z=-87} gt{x=526, y=-9, z=-88}
-[02:02:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=525, y=-9, z=-87} gt{x=525, y=-9, z=-86}
-[02:02:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=526, y=-11, z=-67} gt{x=525, y=-12, z=-68}
-[02:04:04] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[02:04:27] [Server thread/INFO]: [Not Secure] <MARK1> oe
-[02:04:31] [Server thread/INFO]: [Not Secure] <AbelCS> k
-[02:04:38] [Server thread/INFO]: [Not Secure] <MARK1> que hiciste
-[02:04:38] [Server thread/INFO]: [Not Secure] <AbelCS> consegui 21 de hierro
-[02:04:48] [Server thread/INFO]: [Not Secure] <AbelCS> oe q
-[02:04:52] [Server thread/INFO]: [Not Secure] <MARK1> el adeano ya no da reparacuion
-[02:04:53] [Server thread/INFO]: [Not Secure] <AbelCS> q paso
-[02:04:57] [Server thread/INFO]: [Not Secure] <AbelCS> .-.
-[02:05:03] [Server thread/INFO]: [Not Secure] <MARK1> da otra wea
-[02:05:11] [Server thread/INFO]: [Not Secure] <AbelCS> tmre
-[02:05:26] [Server thread/INFO]: [Not Secure] <AbelCS> na
-[02:05:46] [Server thread/INFO]: [Not Secure] <MARK1> ya lo consegui
-[02:05:54] [Server thread/INFO]: [Not Secure] <AbelCS> ya tengo 3 bloques
-[02:06:03] [Server thread/INFO]: [Not Secure] <AbelCS> pal yunque
-[02:06:11] [Server thread/INFO]: [Not Secure] <MARK1> pero si ya hice uno
-[02:06:19] [Server thread/INFO]: [Not Secure] <AbelCS> puuuuuuuuu
-[02:06:33] [Server thread/INFO]: [Not Secure] <AbelCS> reparacion paea cual
-[02:06:43] [Server thread/INFO]: [Not Secure] <MARK1> pal pico
-[02:07:28] [Server thread/INFO]: [Not Secure] <AbelCS> mira
-[02:07:36] [Server thread/INFO]: [Not Secure] <AbelCS> yea
-[02:07:45] [Server thread/INFO]: [Not Secure] <AbelCS> me sobra pal portal
-[02:07:55] [Server thread/INFO]: [Not Secure] <MARK1> ahora si
-[02:08:03] [Server thread/INFO]: [Not Secure] <MARK1> al herrero
-[02:08:07] [Server thread/INFO]: [Not Secure] <AbelCS> hay q ponerlo alrededor de estantes de libros
-[02:08:13] [Server thread/INFO]: [Not Secure] <AbelCS> para q de mejores cosas
-[02:08:17] [Server thread/INFO]: [Not Secure] <MARK1> para eso puse caña
-[02:08:46] [Server thread/INFO]: [Not Secure] <AbelCS> tengo 17 libros
-[02:09:48] [Server thread/INFO]: [Not Secure] <AbelCS> hagamos camas
-[02:10:24] [Server thread/INFO]: [Not Secure] <MARK1> deja reparo mi pico
-[02:12:42] [Server thread/INFO]: [Not Secure] <MARK1> cria mas ovejas
-[02:12:51] [Server thread/INFO]: [Not Secure] <AbelCS> yaya
-[02:12:52] [Server thread/INFO]: [Not Secure] <MARK1> y quitales la lana
-[02:14:17] [Server thread/INFO]: Edy_445[/127.181.157.249:57357] logged in with entity id 24291 at (378.6444235421344, 111.0, 203.32130384308599)
-[02:14:17] [Server thread/INFO]: Edy_445 joined the game
-[02:14:43] [Server thread/INFO]: [Not Secure] <Edy_445> ya llegue
-[02:14:50] [Server thread/INFO]: [Not Secure] <AbelCS> llego el lechero
-[02:15:08] [Server thread/INFO]: [Not Secure] <AbelCS> tengpo 17 de lana
-[02:15:19] [Server thread/INFO]: [Not Secure] <MARK1> tengo dso?
-[02:20:29] [Server thread/INFO]: [Not Secure] <Edy_445> que hicieron?
-[02:20:37] [Server thread/INFO]: [Not Secure] <AbelCS> nada
-[02:20:43] [Server thread/INFO]: [Not Secure] <Edy_445> noto el server medio lagueado
-[02:20:53] [Server thread/INFO]: [Not Secure] <AbelCS> bse
-[02:20:59] [Server thread/INFO]: [Not Secure] <AbelCS> yo lo veo bn
-[02:22:35] [Server thread/INFO]: [Not Secure] <MARK1> oe abel
-[02:22:39] [Server thread/INFO]: [Not Secure] <AbelCS> k pasa
-[02:22:40] [Server thread/INFO]: [Not Secure] <MARK1> tu golem p
-[02:22:49] [Server thread/INFO]: [Not Secure] <AbelCS> no me hace nada
-[02:22:49] [Server thread/INFO]: [Not Secure] <MARK1> se esta yendo
-[02:22:57] [Server thread/INFO]: [Not Secure] <MARK1> el de nieve
-[02:23:06] [Server thread/INFO]: [Not Secure] <AbelCS> dejalo ir
-[02:23:16] [Server thread/INFO]: [Not Secure] <AbelCS> si quiere que vuelva
-[02:23:16] [Server thread/INFO]: [Not Secure] <MARK1> morira p
-[02:27:16] [Server thread/INFO]: [Not Secure] <AbelCS> edy
-[02:27:20] [Server thread/INFO]: [Not Secure] <AbelCS> las calabazas
-[02:27:24] [Server thread/INFO]: [Not Secure] <Edy_445> que
-[02:27:35] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:27:42] [Server thread/INFO]: [Not Secure] <Edy_445> sigue a josue pe
-[02:27:49] [Server thread/INFO]: [Not Secure] <AbelCS> lo sigo
-[02:27:53] [Server thread/INFO]: [Not Secure] <AbelCS> como qn
-[02:27:55] [Server thread/INFO]: [Not Secure] <Edy_445> no se ve
-[02:27:58] [Server thread/INFO]: [Not Secure] <AbelCS> .-.
-[02:28:03] [Server thread/INFO]: [Not Secure] <Edy_445> no estas en la lista
-[02:28:03] [Server thread/INFO]: [Not Secure] <AbelCS> mañana vep
-[02:28:10] [Server thread/INFO]: [Not Secure] <AbelCS> edy
-[02:28:16] [Server thread/INFO]: [Not Secure] <AbelCS> los golems van a morir
-[02:28:16] [Server thread/INFO]: [Not Secure] <Edy_445> que
-[02:28:19] [Server thread/INFO]: [Not Secure] <AbelCS> so
-[02:28:21] [Server thread/INFO]: [Not Secure] <Edy_445> no
-[02:28:24] [Server thread/INFO]: [Not Secure] <MARK1> has el portal abel
-[02:28:24] [Server thread/INFO]: [Not Secure] <AbelCS> por la lluvia
-[02:28:28] [Server thread/INFO]: [Not Secure] <Edy_445> como van a morir?
-[02:28:29] [Server thread/INFO]: [Not Secure] <AbelCS> yaya
-[02:28:32] [Server thread/INFO]: [Not Secure] <Edy_445> no ha lluvia
-[02:28:33] [Server thread/INFO]: [Not Secure] <AbelCS> lluvia
-[02:28:39] [Server thread/INFO]: [Not Secure] <AbelCS> cuando llueva ps
-[02:30:06] [Server thread/INFO]: [Not Secure] <AbelCS> mechero
-[02:30:15] [Server thread/INFO]: [Not Secure] <Edy_445> por que los liberaron?
-[02:30:30] [Server thread/INFO]: [Not Secure] <AbelCS> unos se escapo afuera
-[02:30:38] [Server thread/INFO]: [Not Secure] <Edy_445> como se escaparon?
-[02:30:44] [Server thread/INFO]: [Not Secure] <Edy_445> las vagonetas?
-[02:30:45] [Server thread/INFO]: [Not Secure] <MARK1> portal
-[02:30:51] [Server thread/INFO]: [Not Secure] <MARK1> tengo mechero
-[02:30:57] [Server thread/INFO]: [Not Secure] <AbelCS> pera
-[02:31:02] [Server thread/INFO]: [Not Secure] <Edy_445> pero hay portal en mi base ._.
-[02:33:56] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:36:47] [Server thread/INFO]: AbelCS has made the advancement [Enchanter]
-[02:41:27] [Server thread/INFO]: [Not Secure] <MARK1> el portal?
-[02:41:31] [Server thread/INFO]: [Not Secure] <AbelCS> aya
-[02:43:34] [Server thread/INFO]: MARK1 has made the advancement [We Need to Go Deeper]
-[02:46:50] [Server thread/WARN]: Edy_445 moved too quickly! 0.0,-11.842011517166327,0.0
-[02:48:17] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[02:48:46] [Server thread/INFO]: [Not Secure] <MARK1> netherite capa?
-[02:48:52] [Server thread/INFO]: [Not Secure] <AbelCS> nse
-[02:48:53] [Server thread/INFO]: [Not Secure] <Edy_445> mita
-[02:48:56] [Server thread/INFO]: [Not Secure] <Edy_445> mira
-[02:50:07] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[02:50:07] [Server thread/INFO]: Edy_445 left the game
-[03:05:11] [Server thread/INFO]: [Not Secure] <AbelCS> donde andas
-[03:05:27] [Server thread/INFO]: [Not Secure] <MARK1> nther
-[03:21:02] [Server thread/INFO]: MARK1 has made the advancement [Hidden in the Depths]
-[03:22:18] [Server thread/INFO]: [Not Secure] <AbelCS> mano regresa p0
-[03:22:24] [Server thread/INFO]: [Not Secure] <AbelCS> pa ir a mimir
-[03:22:57] [Server thread/INFO]: [Not Secure] <MARK1> ya
-[03:25:26] [Server thread/INFO]: AbelCS was skewered by a falling stalactite
-[03:26:54] [Server thread/INFO]: [Not Secure] <AbelCS> q opinas
-[03:27:08] [Server thread/INFO]: [Not Secure] <MARK1> ta chido
-[03:27:17] [Server thread/INFO]: [Not Secure] <AbelCS> sisas
-[03:28:43] [Server thread/INFO]: [Not Secure] <AbelCS> tenemos 5 cuerdas
-[03:28:47] [Server thread/INFO]: [Not Secure] <AbelCS> digo
-[03:28:48] [Server thread/INFO]: [Not Secure] <AbelCS> 6
-[03:28:52] [Server thread/INFO]: [Not Secure] <MARK1> duerme
-[03:29:20] [Server thread/INFO]: [Not Secure] <MARK1> encontre solo 1 de ntherite
-[03:29:25] [Server thread/INFO]: [Not Secure] <AbelCS> ooof
-[03:29:30] [Server thread/INFO]: [Not Secure] <AbelCS> pipi
-[03:29:34] [Server thread/INFO]: [Not Secure] <AbelCS> mañana buscamos
-[03:29:39] [Server thread/INFO]: [Not Secure] <MARK1> ya
-[03:29:49] [Server thread/INFO]: [Not Secure] <AbelCS> tengo aca para varias camas
-[03:29:52] [Server thread/INFO]: [Not Secure] <MARK1> nos salimos?
-[03:30:01] [Server thread/INFO]: [Not Secure] <AbelCS> salte voy a apagar el server
-[03:30:08] [Server thread/INFO]: [Not Secure] <MARK1> YAYA
-[03:30:10] [Server thread/INFO]: MARK1 lost connection: Disconnected
-[03:30:10] [Server thread/INFO]: MARK1 left the game
-[03:30:16] [Server thread/INFO]: [AbelCS: Stopping the server]
-[03:30:16] [Server thread/INFO]: Stopping server
-[03:30:16] [Server thread/INFO]: Saving players
-[03:30:16] [Server thread/INFO]: Saving worlds
-[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:38:55] [ServerMain/INFO]: Building unoptimized datafixer
+[23:38:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:38:58] [ServerMain/INFO]: Loaded 7 recipes
+[23:38:58] [ServerMain/INFO]: Loaded 1179 advancements
+[23:38:59] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[23:38:59] [Server thread/INFO]: Loading properties
+[23:38:59] [Server thread/INFO]: Default game type: SURVIVAL
+[23:38:59] [Server thread/INFO]: Generating keypair
+[23:38:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:38:59] [Server thread/INFO]: Using epoll channel type
+[23:38:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:38:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:38:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:38:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:38:59] [Server thread/INFO]: Preparing level "world"
+[23:38:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:39:06] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[23:39:06] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[23:39:07] [Server thread/INFO]: Time elapsed: 7148 ms
+[23:39:07] [Server thread/INFO]: Done (7.411s)! For help, type "help"
+[23:40:09] [Server thread/INFO]: Edy_445[/127.181.157.249:39777] logged in with entity id 95 at (412.0502809752802, 118.0, 89.16546616759076)
+[23:40:09] [Server thread/INFO]: Edy_445 joined the game
+[23:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[23:40:18] [Server thread/INFO]: Siribaki[/127.40.227.132:37621] logged in with entity id 362 at (-16.5, 78.0, 13.5)
+[23:40:18] [Server thread/INFO]: Siribaki joined the game
+[23:40:41] [Server thread/INFO]: Siribaki lost connection: Disconnected
+[23:40:41] [Server thread/INFO]: Siribaki left the game
+[23:41:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@14f9bf0e[id=<null>,name=AbelCS,properties={},legacy=false] (/127.102.211.230:40223) lost connection: Disconnected
+[23:41:49] [Server thread/INFO]: AbelCS[/127.102.211.230:39891] logged in with entity id 830 at (378.62191601310536, 118.0, 22.8988983553235)
+[23:41:49] [Server thread/INFO]: AbelCS joined the game
+[23:42:14] [Server thread/INFO]: Siribaki[/127.40.227.132:37983] logged in with entity id 1005 at (-10.175753711593854, 80.0, 16.29396393385007)
+[23:42:14] [Server thread/INFO]: Siribaki joined the game
+[23:42:22] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Siribaki]
+[23:42:32] [Server thread/INFO]: [Edy_445: Teleported Siribaki to AbelCS]
+[23:42:41] [Server thread/INFO]: [Edy_445: Teleported Siribaki to Edy_445]
+[23:42:47] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
+[23:42:47] [Server thread/INFO]: [Edy_445: Kicked AbelCS: Kicked by an operator]
+[23:42:48] [Server thread/INFO]: AbelCS lost connection: Kicked by an operator
+[23:42:48] [Server thread/INFO]: AbelCS left the game
+[23:42:52] [Server thread/INFO]: AbelCS[/127.102.211.230:53597] logged in with entity id 1430 at (397.7808302554348, 117.0, 161.86854600155795)
+[23:42:52] [Server thread/INFO]: AbelCS joined the game
+[23:43:35] [Server thread/INFO]: Siribaki has made the advancement [A Seedy Place]
+[23:45:22] [Server thread/INFO]: MARK1[/127.16.111.220:34717] logged in with entity id 2436 at (400.3388697545866, 118.0, 30.503887142944333)
+[23:45:22] [Server thread/INFO]: MARK1 joined the game
+[23:47:45] [Server thread/INFO]: Siribaki has made the advancement [Stone Age]
+[23:48:03] [Server thread/INFO]: Siribaki has made the advancement [Getting an Upgrade]
+[23:49:46] [Server thread/INFO]: [Edy_445: Kicked MARK1: Kicked by an operator]
+[23:49:46] [Server thread/INFO]: MARK1 lost connection: Kicked by an operator
+[23:49:46] [Server thread/INFO]: MARK1 left the game
+[23:49:51] [Server thread/INFO]: MARK1[/127.16.111.220:52327] logged in with entity id 3478 at (409.6012833584503, 118.0, 50.34006119051569)
+[23:49:51] [Server thread/INFO]: MARK1 joined the game
+[23:49:54] [Server thread/INFO]: [Not Secure] <AbelCS> gey
+[23:51:07] [Server thread/INFO]: Siribaki has made the advancement [Monster Hunter]
+[23:52:10] [Server thread/INFO]: [Not Secure] <MARK1> e
+[23:54:55] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=383, y=112, z=200} gt{x=384, y=110, z=200}
+[23:57:17] [Server thread/INFO]: Siribaki has made the advancement [Acquire Hardware]
+[23:57:41] [Server thread/INFO]: Siribaki has made the advancement [Isn't It Iron Pick]
