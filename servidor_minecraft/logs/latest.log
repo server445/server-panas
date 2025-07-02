@@ -314,3 +314,32 @@
 [03:22:24] [Server thread/INFO]: [Not Secure] <AbelCS> pa ir a mimir
 [03:22:57] [Server thread/INFO]: [Not Secure] <MARK1> ya
 [03:25:26] [Server thread/INFO]: AbelCS was skewered by a falling stalactite
+[03:26:54] [Server thread/INFO]: [Not Secure] <AbelCS> q opinas
+[03:27:08] [Server thread/INFO]: [Not Secure] <MARK1> ta chido
+[03:27:17] [Server thread/INFO]: [Not Secure] <AbelCS> sisas
+[03:28:43] [Server thread/INFO]: [Not Secure] <AbelCS> tenemos 5 cuerdas
+[03:28:47] [Server thread/INFO]: [Not Secure] <AbelCS> digo
+[03:28:48] [Server thread/INFO]: [Not Secure] <AbelCS> 6
+[03:28:52] [Server thread/INFO]: [Not Secure] <MARK1> duerme
+[03:29:20] [Server thread/INFO]: [Not Secure] <MARK1> encontre solo 1 de ntherite
+[03:29:25] [Server thread/INFO]: [Not Secure] <AbelCS> ooof
+[03:29:30] [Server thread/INFO]: [Not Secure] <AbelCS> pipi
+[03:29:34] [Server thread/INFO]: [Not Secure] <AbelCS> mañana buscamos
+[03:29:39] [Server thread/INFO]: [Not Secure] <MARK1> ya
+[03:29:49] [Server thread/INFO]: [Not Secure] <AbelCS> tengo aca para varias camas
+[03:29:52] [Server thread/INFO]: [Not Secure] <MARK1> nos salimos?
+[03:30:01] [Server thread/INFO]: [Not Secure] <AbelCS> salte voy a apagar el server
+[03:30:08] [Server thread/INFO]: [Not Secure] <MARK1> YAYA
+[03:30:10] [Server thread/INFO]: MARK1 lost connection: Disconnected
+[03:30:10] [Server thread/INFO]: MARK1 left the game
+[03:30:16] [Server thread/INFO]: [AbelCS: Stopping the server]
+[03:30:16] [Server thread/INFO]: Stopping server
+[03:30:16] [Server thread/INFO]: Saving players
+[03:30:16] [Server thread/INFO]: Saving worlds
+[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:30:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:30:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
