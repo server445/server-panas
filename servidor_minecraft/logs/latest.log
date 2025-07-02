@@ -1,69 +1,39 @@
-[00:07:56] [Server thread/INFO]: MARK1 has made the advancement [What a Deal!]
-[00:20:31] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to AbelCS]
-[00:26:18] [Server thread/INFO]: [Not Secure] <MARK1> oye tuu
-[00:26:25] [Server thread/INFO]: Edy_445 lost connection: Disconnected
-[00:26:25] [Server thread/INFO]: Edy_445 left the game
-[00:31:35] [Server thread/INFO]: MARK1 fell from a high place
-[00:58:55] [Server thread/INFO]: AbelCS lost connection: Timed out
-[00:58:55] [Server thread/INFO]: AbelCS left the game
-[01:10:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=384, y=119, z=41} gt{x=385, y=117, z=40}
-[01:18:32] [Server thread/INFO]: AbelCS[/127.102.211.230:58803] logged in with entity id 44424 at (372.30000001192093, 118.875, 12.300000011920929)
-[01:18:32] [Server thread/INFO]: AbelCS joined the game
-[01:21:57] [Server thread/INFO]: [Not Secure] <AbelCS> donde estas
-[01:22:13] [Server thread/INFO]: [Not Secure] <MARK1> aqui
-[01:22:21] [Server thread/INFO]: [Not Secure] <AbelCS> a
-[01:23:06] [Server thread/INFO]: [Not Secure] <AbelCS> voy a pescar
-[01:23:14] [Server thread/INFO]: [Not Secure] <AbelCS> para el gato
-[01:23:29] [Server thread/WARN]: AbelCS moved too quickly! 0.17666888242303003,-11.244647322797647,-0.417996649202351
-[01:24:01] [Server thread/INFO]: AbelCS has made the advancement [Fishy Business]
-[01:24:22] [Server thread/INFO]: [Not Secure] <AbelCS> gey
-[01:24:29] [Server thread/INFO]: [Not Secure] <MARK1> ooo
-[01:24:46] [Server thread/INFO]: [Not Secure] <AbelCS> gey
-[01:25:14] [Server thread/INFO]: [Not Secure] <AbelCS> voy a hacer mi fabrica de estupefacientes
-[01:25:26] [Server thread/INFO]: [Not Secure] <MARK1> y eso que es?
-[01:27:18] [Server thread/INFO]: AbelCS lost connection: Timed out
-[01:27:18] [Server thread/INFO]: AbelCS left the game
-[01:27:46] [Server thread/INFO]: AbelCS[/127.102.211.230:47255] logged in with entity id 46263 at (413.2229494776326, 118.0, 35.337142266852695)
-[01:27:46] [Server thread/INFO]: AbelCS joined the game
-[02:16:47] [Server thread/INFO]: MARK1 has made the advancement [Hot Stuff]
-[02:21:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:21:21] [Server thread/INFO]: <--[HERE]
-[02:21:29] [Server thread/INFO]: [Not Secure] <AbelCS> geuy
-[02:21:32] [Server thread/INFO]: [Not Secure] <AbelCS> gey
-[02:21:57] [Server thread/INFO]: Kicked AbelCS: Kicked by an operator
-[02:21:57] [Server thread/INFO]: AbelCS lost connection: Kicked by an operator
-[02:21:57] [Server thread/INFO]: AbelCS left the game
-[02:22:07] [Server thread/INFO]: AbelCS[/127.102.211.230:39731] logged in with entity id 59087 at (341.2007788538464, 71.0, -503.38229007988)
-[02:22:07] [Server thread/INFO]: AbelCS joined the game
-[02:59:14] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
-[02:59:41] [Server thread/INFO]: AbelCS lost connection: Timed out
-[02:59:41] [Server thread/INFO]: AbelCS left the game
-[03:00:25] [Server thread/INFO]: AbelCS[/127.102.211.230:33307] logged in with entity id 68798 at (402.8651200441012, 117.9375, 35.51485227203181)
-[03:00:25] [Server thread/INFO]: AbelCS joined the game
-[03:00:39] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[03:00:39] [Server thread/INFO]: AbelCS left the game
-[03:00:46] [Server thread/INFO]: AbelCS[/127.102.211.230:43421] logged in with entity id 68884 at (402.8651200441012, 117.9375, 35.51485227203181)
-[03:00:46] [Server thread/INFO]: AbelCS joined the game
-[03:00:58] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[03:00:58] [Server thread/INFO]: AbelCS left the game
-[03:01:04] [Server thread/INFO]: AbelCS[/127.102.211.230:45665] logged in with entity id 68968 at (402.8651200441012, 117.9375, 35.51485227203181)
-[03:01:04] [Server thread/INFO]: AbelCS joined the game
-[03:01:23] [Server thread/INFO]: AbelCS was slain by Zombie
-[03:04:38] [Server thread/INFO]: [AbelCS: Set the weather to rain]
-[03:04:48] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
-[03:05:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=412, y=118, z=44} gt{x=411, y=117, z=42}
-[03:09:29] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
-[03:11:19] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
-[03:26:22] [Server thread/INFO]: [AbelCS: Set the weather to rain & thunder]
-[03:26:59] [Server thread/INFO]: AbelCS has made the advancement [Surge Protector]
-[03:28:59] [Server thread/INFO]: [AbelCS: Set the weather to clear]
-[03:34:24] [Server thread/INFO]: [Not Secure] <AbelCS> time
-[03:34:46] [Server thread/INFO]: Villager btp['Nitwit'/24374, l='ServerLevel[world]', x=401.50, y=118.77, z=11.15] died, message: 'Nitwit was slain by AbelCS'
-[03:34:50] [Server thread/INFO]: MARK1 has made the advancement [Surge Protector]
-[04:24:25] [Server thread/INFO]: [AbelCS: Teleported MARK1 to AbelCS]
-[04:24:59] [Server thread/INFO]: AbelCS lost connection: Disconnected
-[04:24:59] [Server thread/INFO]: AbelCS left the game
-[04:25:28] [Server thread/INFO]: MARK1 lost connection: Disconnected
-[04:25:28] [Server thread/INFO]: MARK1 left the game
-[04:28:23] [Server thread/INFO]: MARK1[/127.16.111.220:56545] logged in with entity id 86955 at (433.06120969169046, 119.0, 21.490604842388002)
-[04:28:23] [Server thread/INFO]: MARK1 joined the game
+[00:04:36] [ServerMain/INFO]: Building unoptimized datafixer
+[00:04:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:04:39] [ServerMain/INFO]: Loaded 7 recipes
+[00:04:40] [ServerMain/INFO]: Loaded 1179 advancements
+[00:04:41] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[00:04:41] [Server thread/INFO]: Loading properties
+[00:04:41] [Server thread/INFO]: Default game type: SURVIVAL
+[00:04:41] [Server thread/INFO]: Generating keypair
+[00:04:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:04:41] [Server thread/INFO]: Using epoll channel type
+[00:04:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:04:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:04:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:04:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:04:41] [Server thread/INFO]: Preparing level "world"
+[00:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:04:49] [Worker-Main-3/INFO]: Preparing spawn area: 13%
+[00:04:49] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[00:04:50] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[00:04:50] [Server thread/INFO]: Time elapsed: 8579 ms
+[00:04:50] [Server thread/INFO]: Done (8.832s)! For help, type "help"
+[00:09:50] [Server thread/INFO]: AbelCS[/127.102.211.230:34849] logged in with entity id 95 at (379.53557634818, 110.5625, 26.675267711814175)
+[00:09:50] [Server thread/INFO]: AbelCS joined the game
+[00:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
