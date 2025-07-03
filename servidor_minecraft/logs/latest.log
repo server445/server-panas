@@ -86,3 +86,54 @@
 [01:37:36] [Server thread/INFO]: AbelCS left the game
 [01:37:40] [Server thread/INFO]: AbelCS[/127.102.211.230:45889] logged in with entity id 48167 at (101.85000162802312, 98.0, -81.89245969329542)
 [01:37:40] [Server thread/INFO]: AbelCS joined the game
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=84, z=-73} gt{x=36, y=83, z=-74}
+[01:41:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=39, y=83, z=-76} gt{x=37, y=83, z=-76}
+[01:41:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=49, y=74, z=-74} gt{x=48, y=73, z=-73}
+[01:41:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=49, y=74, z=-74} gt{x=48, y=73, z=-73}
+[01:41:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=49, y=74, z=-74} gt{x=48, y=73, z=-73}
+[01:41:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:41:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:41:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:41:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:41:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:41:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=58, y=66, z=-73} gt{x=58, y=66, z=-74}
+[01:42:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=39, y=54, z=-99} gt{x=40, y=53, z=-99}
+[01:42:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=51, z=-101} gt{x=35, y=51, z=-102}
+[01:42:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=50, z=-101} gt{x=35, y=51, z=-102}
+[01:42:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=35, y=53, z=-102} gt{x=35, y=51, z=-102}
+[01:42:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=36, y=53, z=-103} gt{x=36, y=52, z=-103}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=34, z=-81} gt{x=1, y=34, z=-82}
+[01:43:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=4, y=30, z=-84} gt{x=5, y=26, z=-85}
+[01:43:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=4, y=30, z=-84} gt{x=5, y=26, z=-85}
+[01:43:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=4, y=28, z=-86} gt{x=4, y=29, z=-86}
+[01:44:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=5, y=24, z=-90} gt{x=4, y=22, z=-92}
+[01:44:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=6, y=22, z=-91} gt{x=6, y=23, z=-91}
+[01:44:43] [Server thread/INFO]: AbelCS has made the advancement [Hidden in the Depths]
+[01:45:18] [Server thread/INFO]: [Edy_445: Kicked AbelCS: Kicked by an operator]
+[01:45:18] [Server thread/INFO]: AbelCS lost connection: Kicked by an operator
+[01:45:18] [Server thread/INFO]: AbelCS left the game
+[01:45:23] [Server thread/INFO]: AbelCS[/127.102.211.230:50943] logged in with entity id 51733 at (8.300000011920929, 3.0, -102.30000001192093)
+[01:45:23] [Server thread/INFO]: AbelCS joined the game
+[01:51:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=159, y=16, z=3} gt{x=158, y=15, z=4}
+[01:56:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=15, z=10} gt{x=26, y=14, z=10}
+[01:58:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-63, y=16, z=3} gt{x=-63, y=15, z=4}
+[01:58:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-64, y=15, z=2} gt{x=-64, y=15, z=3}
+[01:58:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-65, y=16, z=2} gt{x=-65, y=16, z=3}
+[01:58:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-65, y=15, z=1} gt{x=-66, y=15, z=2}
+[01:58:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-64, y=16, z=1} gt{x=-63, y=16, z=1}
+[01:59:28] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
