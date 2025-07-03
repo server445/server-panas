@@ -137,3 +137,7 @@
 [01:58:11] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-65, y=15, z=1} gt{x=-66, y=15, z=2}
 [01:58:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-64, y=16, z=1} gt{x=-63, y=16, z=1}
 [01:59:28] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
+[02:07:01] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[02:07:01] [Server thread/INFO]: Edy_445 left the game
+[02:07:31] [Server thread/INFO]: Edy_445[/127.181.157.249:55941] logged in with entity id 63676 at (394.66157148181145, 118.0, 154.17455796447726)
+[02:07:31] [Server thread/INFO]: Edy_445 joined the game
