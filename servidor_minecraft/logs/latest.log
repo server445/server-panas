@@ -58,3 +58,8 @@
 [00:45:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=101, y=18, z=-77} gt{x=102, y=17, z=-77}
 [00:47:47] [Server thread/INFO]: [AbelCS: Set own game mode to Spectator Mode]
 [00:48:46] [Server thread/INFO]: AbelCS has made the advancement [Those Were the Days]
+[00:49:33] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
+[00:51:14] [Server thread/INFO]: Edy_445 lost connection: Disconnected
+[00:51:14] [Server thread/INFO]: Edy_445 left the game
+[00:55:58] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
+[00:56:44] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
