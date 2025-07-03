@@ -4,3 +4,20 @@
 [00:05:12] [Server thread/INFO]: [Edy_445: Teleported Edy_445 to Siribaki]
 [00:05:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=25, y=82, z=-14} gt{x=27, y=83, z=-13}
 [00:05:35] [Server thread/INFO]: [AbelCS: Teleported AbelCS to MARK1]
+[00:12:03] [Server thread/INFO]: [Edy_445: Kicked Siribaki: Kicked by an operator]
+[00:12:03] [Server thread/INFO]: Siribaki lost connection: Kicked by an operator
+[00:12:03] [Server thread/INFO]: Siribaki left the game
+[00:12:17] [Server thread/INFO]: Siribaki[/127.40.227.132:58113] logged in with entity id 13881 at (438.5966544825725, 5.0, -18.090337094948723)
+[00:12:17] [Server thread/INFO]: Siribaki joined the game
+[00:13:47] [Server thread/INFO]: Siribaki has made the advancement [Diamonds!]
+[00:16:03] [Server thread/INFO]: Siribaki has made the advancement [Sneak 100]
+[00:18:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=86, y=114, z=-186} gt{x=85, y=113, z=-187}
+[00:18:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=86, y=114, z=-186} gt{x=85, y=113, z=-187}
+[00:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=102, y=112, z=-160} gt{x=101, y=112, z=-160}
+[00:19:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=102, y=112, z=-160} gt{x=101, y=112, z=-160}
+[00:19:56] [Server thread/INFO]: MARK1 lost connection: Disconnected
+[00:19:56] [Server thread/INFO]: MARK1 left the game
+[00:20:03] [Server thread/INFO]: [Not Secure] <Edy_445> :D
+[00:22:18] [Server thread/INFO]: [AbelCS: Teleported AbelCS to Edy_445]
+[00:22:26] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Siribaki]
+[00:22:37] [Server thread/INFO]: [Edy_445: Teleported AbelCS to Edy_445]
