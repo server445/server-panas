@@ -16,5 +16,11 @@
     "name": "MARK1",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "76c42c02-e5ad-3cee-8cac-84c52421669e",
+    "name": "Siribaki",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
