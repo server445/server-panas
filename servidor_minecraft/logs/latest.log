@@ -70,3 +70,19 @@
 [01:08:21] [Server thread/INFO]: [AbelCS: Set own game mode to Spectator Mode]
 [01:09:17] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
 [01:12:29] [Server thread/INFO]: [Not Secure] <AbelCS> e
+[01:20:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=421, y=54, z=89} gt{x=421, y=55, z=89}
+[01:25:46] [Server thread/INFO]: Edy_445[/127.181.157.249:44735] logged in with entity id 43663 at (384.1166034275798, 112.0, 205.30000001192093)
+[01:25:46] [Server thread/INFO]: Edy_445 joined the game
+[01:30:18] [Server thread/INFO]: AbelCS lost connection: Timed out
+[01:30:18] [Server thread/INFO]: AbelCS left the game
+[01:30:22] [Server thread/INFO]: AbelCS[/127.102.211.230:34773] logged in with entity id 45030 at (52.5, 105.0, -10.1898649416356)
+[01:30:22] [Server thread/INFO]: AbelCS joined the game
+[01:30:52] [Server thread/INFO]: AbelCS lost connection: Timed out
+[01:30:52] [Server thread/INFO]: AbelCS left the game
+[01:31:06] [Server thread/INFO]: AbelCS[/127.102.211.230:47491] logged in with entity id 45538 at (52.5, 105.0, -10.1898649416356)
+[01:31:06] [Server thread/INFO]: AbelCS joined the game
+[01:34:12] [Server thread/INFO]: [Not Secure] <AbelCS> e
+[01:37:36] [Server thread/INFO]: AbelCS lost connection: Timed out
+[01:37:36] [Server thread/INFO]: AbelCS left the game
+[01:37:40] [Server thread/INFO]: AbelCS[/127.102.211.230:45889] logged in with entity id 48167 at (101.85000162802312, 98.0, -81.89245969329542)
+[01:37:40] [Server thread/INFO]: AbelCS joined the game
