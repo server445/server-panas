@@ -63,3 +63,10 @@
 [00:51:14] [Server thread/INFO]: Edy_445 left the game
 [00:55:58] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
 [00:56:44] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
+[01:01:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=18, y=30, z=-24} gt{x=20, y=28, z=-25}
+[01:02:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=30, y=30, z=-23} gt{x=31, y=27, z=-25}
+[01:06:16] [Server thread/INFO]: [AbelCS: Set own game mode to Creative Mode]
+[01:08:14] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
+[01:08:21] [Server thread/INFO]: [AbelCS: Set own game mode to Spectator Mode]
+[01:09:17] [Server thread/INFO]: [AbelCS: Set own game mode to Survival Mode]
+[01:12:29] [Server thread/INFO]: [Not Secure] <AbelCS> e
